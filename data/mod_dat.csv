@@ -1,0 +1,4101 @@
+day_of_week,round,region,team_seed,opponent_seed,win
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,5,12,1
+Thursday,Round of 64,East,8,9,1
+Thursday,Round of 64,Midwest,1,16,1
+Thursday,Round of 64,Midwest,4,13,1
+Thursday,Round of 64,Midwest,5,12,1
+Thursday,Round of 64,Midwest,9,8,1
+Thursday,Round of 64,Southeast,2,15,1
+Thursday,Round of 64,Southeast,3,14,1
+Thursday,Round of 64,Southeast,7,10,1
+Thursday,Round of 64,Southeast,11,6,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,9,8,1
+Thursday,Round of 64,West,12,5,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,East,7,10,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,3,14,1
+Friday,Round of 64,Midwest,7,10,1
+Friday,Round of 64,Midwest,11,6,1
+Friday,Round of 64,Southeast,1,16,1
+Friday,Round of 64,Southeast,5,12,1
+Friday,Round of 64,Southeast,8,9,1
+Friday,Round of 64,Southeast,13,4,1
+Friday,Round of 64,West,2,15,1
+Friday,Round of 64,West,3,14,1
+Friday,Round of 64,West,7,10,1
+Friday,Round of 64,West,11,6,1
+Saturday,Round of 32,East,1,8,1
+Saturday,Round of 32,East,4,5,1
+Saturday,Round of 32,Midwest,1,9,1
+Saturday,Round of 32,Midwest,5,4,1
+Saturday,Round of 32,Southeast,2,7,1
+Saturday,Round of 32,Southeast,11,3,1
+Saturday,Round of 32,West,1,9,1
+Saturday,Round of 32,West,12,4,1
+Sunday,Round of 32,East,2,7,1
+Sunday,Round of 32,East,3,6,1
+Sunday,Round of 32,Midwest,2,7,1
+Sunday,Round of 32,Midwest,11,3,1
+Sunday,Round of 32,Southeast,5,13,1
+Sunday,Round of 32,Southeast,8,1,1
+Sunday,Round of 32,West,3,11,1
+Sunday,Round of 32,West,7,2,1
+Thursday,Sweet Sixteen,East,1,4,1
+Thursday,Sweet Sixteen,East,2,3,1
+Thursday,Sweet Sixteen,Midwest,1,5,1
+Thursday,Sweet Sixteen,Midwest,2,11,1
+Friday,Sweet Sixteen,Southeast,2,11,1
+Friday,Sweet Sixteen,Southeast,8,5,1
+Friday,Sweet Sixteen,West,1,12,1
+Friday,Sweet Sixteen,West,3,7,1
+Saturday,Elite Eight,East,1,2,1
+Saturday,Elite Eight,Midwest,2,1,1
+Sunday,Elite Eight,Southeast,8,2,1
+Sunday,Elite Eight,West,1,3,1
+Saturday,National Semifinals,National Semifinals,1,1,1
+Saturday,National Semifinals,National Semifinals,8,2,1
+Monday,National Championship,National Championship,8,1,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,8,9,1
+Thursday,Round of 64,East,12,5,1
+Thursday,Round of 64,Midwest,1,16,1
+Thursday,Round of 64,Midwest,4,13,1
+Thursday,Round of 64,Midwest,5,12,1
+Thursday,Round of 64,Midwest,9,8,1
+Thursday,Round of 64,Southeast,2,15,1
+Thursday,Round of 64,Southeast,3,14,1
+Thursday,Round of 64,Southeast,10,7,1
+Thursday,Round of 64,Southeast,11,6,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,6,11,1
+Thursday,Round of 64,West,7,10,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,East,7,10,1
+Friday,Round of 64,East,14,3,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,6,11,1
+Friday,Round of 64,Midwest,7,10,1
+Friday,Round of 64,Midwest,14,3,1
+Friday,Round of 64,Southeast,1,16,1
+Friday,Round of 64,Southeast,4,13,1
+Friday,Round of 64,Southeast,5,12,1
+Friday,Round of 64,Southeast,8,9,1
+Friday,Round of 64,West,1,16,1
+Friday,Round of 64,West,4,13,1
+Friday,Round of 64,West,5,12,1
+Friday,Round of 64,West,8,9,1
+Saturday,Round of 32,East,1,8,1
+Saturday,Round of 32,East,12,4,1
+Saturday,Round of 32,Midwest,1,9,1
+Saturday,Round of 32,Midwest,5,4,1
+Saturday,Round of 32,Southeast,2,10,1
+Saturday,Round of 32,Southeast,11,3,1
+Saturday,Round of 32,West,2,7,1
+Saturday,Round of 32,West,3,6,1
+Sunday,Round of 32,East,7,2,1
+Sunday,Round of 32,East,14,6,1
+Sunday,Round of 32,Midwest,6,14,1
+Sunday,Round of 32,Midwest,7,2,1
+Sunday,Round of 32,Southeast,1,8,1
+Sunday,Round of 32,Southeast,5,4,1
+Sunday,Round of 32,West,4,5,1
+Sunday,Round of 32,West,8,1,1
+Thursday,Sweet Sixteen,Southeast,1,5,1
+Thursday,Sweet Sixteen,Southeast,11,2,1
+Thursday,Sweet Sixteen,West,2,3,1
+Thursday,Sweet Sixteen,West,8,4,1
+Friday,Sweet Sixteen,East,1,12,1
+Friday,Sweet Sixteen,East,7,14,1
+Friday,Sweet Sixteen,Midwest,1,5,1
+Friday,Sweet Sixteen,Midwest,6,7,1
+Saturday,Elite Eight,Southeast,11,1,1
+Saturday,Elite Eight,West,2,8,1
+Sunday,Elite Eight,East,1,7,1
+Sunday,Elite Eight,Midwest,1,6,1
+Saturday,National Semifinals,National Semifinals,1,1,1
+Saturday,National Semifinals,National Semifinals,2,11,1
+Monday,National Championship,National Championship,2,1,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,5,12,1
+Thursday,Round of 64,East,9,8,1
+Thursday,Round of 64,Midwest,1,16,1
+Thursday,Round of 64,Midwest,5,12,1
+Thursday,Round of 64,Midwest,8,9,1
+Thursday,Round of 64,Midwest,13,4,1
+Thursday,Round of 64,Southeast,2,15,1
+Thursday,Round of 64,Southeast,6,11,1
+Thursday,Round of 64,Southeast,7,10,1
+Thursday,Round of 64,Southeast,14,3,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,9,8,1
+Thursday,Round of 64,West,12,5,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,East,10,7,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,3,14,1
+Friday,Round of 64,Midwest,6,11,1
+Friday,Round of 64,Midwest,10,7,1
+Friday,Round of 64,Southeast,1,16,1
+Friday,Round of 64,Southeast,5,12,1
+Friday,Round of 64,Southeast,9,8,1
+Friday,Round of 64,Southeast,13,4,1
+Friday,Round of 64,West,2,15,1
+Friday,Round of 64,West,3,14,1
+Friday,Round of 64,West,6,11,1
+Friday,Round of 64,West,7,10,1
+Saturday,Round of 32,East,1,9,1
+Saturday,Round of 32,East,5,4,1
+Saturday,Round of 32,Midwest,1,8,1
+Saturday,Round of 32,Midwest,5,13,1
+Saturday,Round of 32,Southeast,2,7,1
+Saturday,Round of 32,Southeast,6,14,1
+Saturday,Round of 32,West,1,9,1
+Saturday,Round of 32,West,12,4,1
+Sunday,Round of 32,East,2,10,1
+Sunday,Round of 32,East,6,3,1
+Sunday,Round of 32,Midwest,3,6,1
+Sunday,Round of 32,Midwest,10,2,1
+Sunday,Round of 32,Southeast,1,9,1
+Sunday,Round of 32,Southeast,5,13,1
+Sunday,Round of 32,West,2,7,1
+Sunday,Round of 32,West,6,3,1
+Thursday,Sweet Sixteen,East,1,5,1
+Thursday,Sweet Sixteen,East,2,6,1
+Thursday,Sweet Sixteen,Southeast,1,5,1
+Thursday,Sweet Sixteen,Southeast,6,2,1
+Friday,Sweet Sixteen,Midwest,1,5,1
+Friday,Sweet Sixteen,Midwest,10,3,1
+Friday,Sweet Sixteen,West,1,12,1
+Friday,Sweet Sixteen,West,2,6,1
+Saturday,Elite Eight,East,2,1,1
+Saturday,Elite Eight,Southeast,6,1,1
+Sunday,Elite Eight,Midwest,1,10,1
+Sunday,Elite Eight,West,1,2,1
+Saturday,National Semifinals,National Semifinals,1,1,1
+Saturday,National Semifinals,National Semifinals,2,6,1
+Monday,National Championship,National Championship,1,2,1
+Thursday,Round of 64,East,2,15,1
+Thursday,Round of 64,East,3,14,1
+Thursday,Round of 64,East,7,10,1
+Thursday,Round of 64,East,11,6,1
+Thursday,Round of 64,Midwest,1,16,1
+Thursday,Round of 64,Midwest,4,13,1
+Thursday,Round of 64,Midwest,5,12,1
+Thursday,Round of 64,Midwest,9,8,1
+Thursday,Round of 64,Southeast,1,16,1
+Thursday,Round of 64,Southeast,4,13,1
+Thursday,Round of 64,Southeast,5,12,1
+Thursday,Round of 64,Southeast,8,9,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,6,11,1
+Thursday,Round of 64,West,10,7,1
+Friday,Round of 64,East,1,16,1
+Friday,Round of 64,East,5,12,1
+Friday,Round of 64,East,8,9,1
+Friday,Round of 64,East,13,4,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,6,11,1
+Friday,Round of 64,Midwest,7,10,1
+Friday,Round of 64,Midwest,14,3,1
+Friday,Round of 64,Southeast,2,15,1
+Friday,Round of 64,Southeast,3,14,1
+Friday,Round of 64,Southeast,6,11,1
+Friday,Round of 64,Southeast,7,10,1
+Friday,Round of 64,West,1,16,1
+Friday,Round of 64,West,4,13,1
+Friday,Round of 64,West,5,12,1
+Friday,Round of 64,West,8,9,1
+Saturday,Round of 32,East,2,7,1
+Saturday,Round of 32,East,11,3,1
+Saturday,Round of 32,Midwest,1,9,1
+Saturday,Round of 32,Midwest,4,5,1
+Saturday,Round of 32,Southeast,1,8,1
+Saturday,Round of 32,Southeast,5,4,1
+Saturday,Round of 32,West,2,10,1
+Saturday,Round of 32,West,3,6,1
+Sunday,Round of 32,East,1,8,1
+Sunday,Round of 32,East,13,5,1
+Sunday,Round of 32,Midwest,6,14,1
+Sunday,Round of 32,Midwest,7,2,1
+Sunday,Round of 32,Southeast,2,7,1
+Sunday,Round of 32,Southeast,6,3,1
+Sunday,Round of 32,West,1,8,1
+Sunday,Round of 32,West,5,4,1
+Thursday,Sweet Sixteen,East,1,13,1
+Thursday,Sweet Sixteen,East,2,11,1
+Thursday,Sweet Sixteen,Southeast,1,5,1
+Thursday,Sweet Sixteen,Southeast,6,2,1
+Friday,Sweet Sixteen,Midwest,4,1,1
+Friday,Sweet Sixteen,Midwest,6,7,1
+Friday,Sweet Sixteen,West,1,5,1
+Friday,Sweet Sixteen,West,2,3,1
+Saturday,Elite Eight,East,2,1,1
+Saturday,Elite Eight,Southeast,1,6,1
+Sunday,Elite Eight,Midwest,6,4,1
+Sunday,Elite Eight,West,1,2,1
+Saturday,National Semifinals,National Semifinals,1,1,1
+Saturday,National Semifinals,National Semifinals,6,2,1
+Monday,National Championship,National Championship,6,1,1
+Thursday,Round of 64,East,2,15,1
+Thursday,Round of 64,East,7,10,1
+Thursday,Round of 64,East,11,6,1
+Thursday,Round of 64,East,14,3,1
+Thursday,Round of 64,Midwest,1,16,1
+Thursday,Round of 64,Midwest,4,13,1
+Thursday,Round of 64,Midwest,5,12,1
+Thursday,Round of 64,Midwest,9,8,1
+Thursday,Round of 64,Southeast,1,16,1
+Thursday,Round of 64,Southeast,5,12,1
+Thursday,Round of 64,Southeast,9,8,1
+Thursday,Round of 64,Southeast,13,4,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,9,8,1
+Thursday,Round of 64,West,12,5,1
+Friday,Round of 64,East,1,16,1
+Friday,Round of 64,East,4,13,1
+Friday,Round of 64,East,5,12,1
+Friday,Round of 64,East,9,8,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,3,14,1
+Friday,Round of 64,Midwest,10,7,1
+Friday,Round of 64,Midwest,11,6,1
+Friday,Round of 64,Southeast,2,15,1
+Friday,Round of 64,Southeast,3,14,1
+Friday,Round of 64,Southeast,7,10,1
+Friday,Round of 64,Southeast,11,6,1
+Friday,Round of 64,West,2,15,1
+Friday,Round of 64,West,3,14,1
+Friday,Round of 64,West,7,10,1
+Friday,Round of 64,West,11,6,1
+Saturday,Round of 32,East,2,7,1
+Saturday,Round of 32,East,11,14,1
+Saturday,Round of 32,Midwest,1,9,1
+Saturday,Round of 32,Midwest,4,5,1
+Saturday,Round of 32,Southeast,1,9,1
+Saturday,Round of 32,Southeast,5,13,1
+Saturday,Round of 32,West,1,9,1
+Saturday,Round of 32,West,4,12,1
+Sunday,Round of 32,East,1,9,1
+Sunday,Round of 32,East,5,4,1
+Sunday,Round of 32,Midwest,2,10,1
+Sunday,Round of 32,Midwest,3,11,1
+Sunday,Round of 32,Southeast,2,7,1
+Sunday,Round of 32,Southeast,3,11,1
+Sunday,Round of 32,West,2,7,1
+Sunday,Round of 32,West,3,11,1
+Thursday,Sweet Sixteen,Southeast,3,2,1
+Thursday,Sweet Sixteen,Southeast,5,1,1
+Thursday,Sweet Sixteen,West,3,2,1
+Thursday,Sweet Sixteen,West,4,1,1
+Friday,Sweet Sixteen,East,1,5,1
+Friday,Sweet Sixteen,East,2,11,1
+Friday,Sweet Sixteen,Midwest,1,4,1
+Friday,Sweet Sixteen,Midwest,2,3,1
+Saturday,Elite Eight,Southeast,3,5,1
+Saturday,Elite Eight,West,3,4,1
+Sunday,Elite Eight,East,2,1,1
+Sunday,Elite Eight,Midwest,1,2,1
+Saturday,National Semifinals,National Semifinals,3,1,1
+Saturday,National Semifinals,National Semifinals,3,2,1
+Monday,National Championship,National Championship,3,3,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,5,12,1
+Thursday,Round of 64,East,9,8,1
+Thursday,Round of 64,Midwest,1,16,1
+Thursday,Round of 64,Midwest,4,13,1
+Thursday,Round of 64,Midwest,8,9,1
+Thursday,Round of 64,Midwest,12,5,1
+Thursday,Round of 64,Southeast,1,16,1
+Thursday,Round of 64,Southeast,4,13,1
+Thursday,Round of 64,Southeast,5,12,1
+Thursday,Round of 64,Southeast,9,8,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,8,9,1
+Thursday,Round of 64,West,12,5,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,East,7,10,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,3,14,1
+Friday,Round of 64,Midwest,6,11,1
+Friday,Round of 64,Midwest,10,7,1
+Friday,Round of 64,Southeast,2,15,1
+Friday,Round of 64,Southeast,6,11,1
+Friday,Round of 64,Southeast,7,10,1
+Friday,Round of 64,Southeast,14,3,1
+Friday,Round of 64,West,2,15,1
+Friday,Round of 64,West,3,14,1
+Friday,Round of 64,West,7,10,1
+Friday,Round of 64,West,11,6,1
+Saturday,Round of 32,East,1,9,1
+Saturday,Round of 32,East,5,4,1
+Saturday,Round of 32,Midwest,4,12,1
+Saturday,Round of 32,Midwest,8,1,1
+Saturday,Round of 32,Southeast,1,9,1
+Saturday,Round of 32,Southeast,4,5,1
+Saturday,Round of 32,West,1,8,1
+Saturday,Round of 32,West,12,4,1
+Sunday,Round of 32,East,3,6,1
+Sunday,Round of 32,East,7,2,1
+Sunday,Round of 32,Midwest,6,3,1
+Sunday,Round of 32,Midwest,10,2,1
+Sunday,Round of 32,Southeast,2,7,1
+Sunday,Round of 32,Southeast,6,14,1
+Sunday,Round of 32,West,7,2,1
+Sunday,Round of 32,West,11,3,1
+Thursday,Sweet Sixteen,East,1,5,1
+Thursday,Sweet Sixteen,East,3,7,1
+Thursday,Sweet Sixteen,Midwest,4,8,1
+Thursday,Sweet Sixteen,Midwest,10,6,1
+Friday,Sweet Sixteen,Southeast,4,1,1
+Friday,Sweet Sixteen,Southeast,6,2,1
+Friday,Sweet Sixteen,West,1,12,1
+Friday,Sweet Sixteen,West,11,7,1
+Saturday,Elite Eight,East,3,1,1
+Saturday,Elite Eight,Midwest,4,10,1
+Sunday,Elite Eight,Southeast,4,6,1
+Sunday,Elite Eight,West,1,11,1
+Saturday,National Semifinals,National Semifinals,1,4,1
+Saturday,National Semifinals,National Semifinals,3,4,1
+Monday,National Championship,National Championship,1,3,1
+Thursday,Round of 64,East,3,14,1
+Thursday,Round of 64,East,6,11,1
+Thursday,Round of 64,East,10,7,1
+Thursday,Round of 64,East,15,2,1
+Thursday,Round of 64,Midwest,2,15,1
+Thursday,Round of 64,Midwest,7,10,1
+Thursday,Round of 64,Midwest,11,6,1
+Thursday,Round of 64,Midwest,14,3,1
+Thursday,Round of 64,Southeast,2,15,1
+Thursday,Round of 64,Southeast,3,14,1
+Thursday,Round of 64,Southeast,6,11,1
+Thursday,Round of 64,Southeast,7,10,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,10,7,1
+Thursday,Round of 64,West,11,6,1
+Friday,Round of 64,East,1,16,1
+Friday,Round of 64,East,9,8,1
+Friday,Round of 64,East,12,5,1
+Friday,Round of 64,East,13,4,1
+Friday,Round of 64,Midwest,1,16,1
+Friday,Round of 64,Midwest,4,13,1
+Friday,Round of 64,Midwest,5,12,1
+Friday,Round of 64,Midwest,8,9,1
+Friday,Round of 64,Southeast,1,16,1
+Friday,Round of 64,Southeast,4,13,1
+Friday,Round of 64,Southeast,5,12,1
+Friday,Round of 64,Southeast,8,9,1
+Friday,Round of 64,West,1,16,1
+Friday,Round of 64,West,4,13,1
+Friday,Round of 64,West,5,12,1
+Friday,Round of 64,West,8,9,1
+Saturday,Round of 32,East,3,6,1
+Saturday,Round of 32,East,10,15,1
+Saturday,Round of 32,Midwest,2,7,1
+Saturday,Round of 32,Midwest,11,14,1
+Saturday,Round of 32,Southeast,2,7,1
+Saturday,Round of 32,Southeast,3,6,1
+Saturday,Round of 32,West,2,10,1
+Saturday,Round of 32,West,3,11,1
+Sunday,Round of 32,East,1,9,1
+Sunday,Round of 32,East,12,13,1
+Sunday,Round of 32,Midwest,1,8,1
+Sunday,Round of 32,Midwest,4,5,1
+Sunday,Round of 32,Southeast,1,8,1
+Sunday,Round of 32,Southeast,4,5,1
+Sunday,Round of 32,West,1,8,1
+Sunday,Round of 32,West,4,5,1
+Thursday,Sweet Sixteen,Southeast,1,4,1
+Thursday,Sweet Sixteen,Southeast,3,2,1
+Thursday,Sweet Sixteen,West,1,4,1
+Thursday,Sweet Sixteen,West,3,2,1
+Friday,Sweet Sixteen,East,1,12,1
+Friday,Sweet Sixteen,East,10,3,1
+Friday,Sweet Sixteen,Midwest,2,11,1
+Friday,Sweet Sixteen,Midwest,4,1,1
+Saturday,Elite Eight,Southeast,3,1,1
+Saturday,Elite Eight,West,1,3,1
+Sunday,Elite Eight,East,1,10,1
+Sunday,Elite Eight,Midwest,2,4,1
+Saturday,National Semifinals,National Semifinals,2,1,1
+Saturday,National Semifinals,National Semifinals,3,1,1
+Monday,National Championship,National Championship,2,3,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,5,12,1
+Thursday,Round of 64,East,9,8,1
+Thursday,Round of 64,Midwest,2,15,1
+Thursday,Round of 64,Midwest,3,14,1
+Thursday,Round of 64,Midwest,6,11,1
+Thursday,Round of 64,Midwest,7,10,1
+Thursday,Round of 64,Southeast,1,16,1
+Thursday,Round of 64,Southeast,4,13,1
+Thursday,Round of 64,Southeast,5,12,1
+Thursday,Round of 64,Southeast,9,8,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,6,11,1
+Thursday,Round of 64,West,7,10,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,East,10,7,1
+Friday,Round of 64,Midwest,1,16,1
+Friday,Round of 64,Midwest,4,13,1
+Friday,Round of 64,Midwest,5,12,1
+Friday,Round of 64,Midwest,9,8,1
+Friday,Round of 64,Southeast,2,15,1
+Friday,Round of 64,Southeast,6,11,1
+Friday,Round of 64,Southeast,10,7,1
+Friday,Round of 64,Southeast,14,3,1
+Friday,Round of 64,West,1,16,1
+Friday,Round of 64,West,8,9,1
+Friday,Round of 64,West,12,5,1
+Friday,Round of 64,West,13,4,1
+Saturday,Round of 32,East,1,9,1
+Saturday,Round of 32,East,4,5,1
+Saturday,Round of 32,Midwest,6,3,1
+Saturday,Round of 32,Midwest,7,2,1
+Saturday,Round of 32,Southeast,1,9,1
+Saturday,Round of 32,Southeast,4,5,1
+Saturday,Round of 32,West,2,7,1
+Saturday,Round of 32,West,3,6,1
+Sunday,Round of 32,East,2,10,1
+Sunday,Round of 32,East,3,6,1
+Sunday,Round of 32,Midwest,4,5,1
+Sunday,Round of 32,Midwest,9,1,1
+Sunday,Round of 32,Southeast,2,10,1
+Sunday,Round of 32,Southeast,6,14,1
+Sunday,Round of 32,West,1,8,1
+Sunday,Round of 32,West,12,13,1
+Thursday,Sweet Sixteen,East,1,4,1
+Thursday,Sweet Sixteen,East,2,3,1
+Thursday,Sweet Sixteen,West,1,12,1
+Thursday,Sweet Sixteen,West,2,3,1
+Friday,Sweet Sixteen,Midwest,4,9,1
+Friday,Sweet Sixteen,Midwest,6,7,1
+Friday,Sweet Sixteen,Southeast,1,4,1
+Friday,Sweet Sixteen,Southeast,6,2,1
+Saturday,Elite Eight,East,1,2,1
+Saturday,Elite Eight,West,2,1,1
+Sunday,Elite Eight,Midwest,4,6,1
+Sunday,Elite Eight,Southeast,6,1,1
+Saturday,National Semifinals,National Semifinals,1,2,1
+Saturday,National Semifinals,National Semifinals,6,4,1
+Monday,National Championship,National Championship,1,6,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,5,12,1
+Thursday,Round of 64,East,8,9,1
+Thursday,Round of 64,Midwest,2,15,1
+Thursday,Round of 64,Midwest,3,14,1
+Thursday,Round of 64,Midwest,6,11,1
+Thursday,Round of 64,Midwest,7,10,1
+Thursday,Round of 64,Southeast,2,15,1
+Thursday,Round of 64,Southeast,3,14,1
+Thursday,Round of 64,Southeast,7,10,1
+Thursday,Round of 64,Southeast,11,6,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,6,11,1
+Thursday,Round of 64,West,7,10,1
+Thursday,Round of 64,West,15,2,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,East,7,10,1
+Friday,Round of 64,Midwest,1,16,1
+Friday,Round of 64,Midwest,4,13,1
+Friday,Round of 64,Midwest,5,12,1
+Friday,Round of 64,Midwest,9,8,1
+Friday,Round of 64,Southeast,1,16,1
+Friday,Round of 64,Southeast,4,13,1
+Friday,Round of 64,Southeast,5,12,1
+Friday,Round of 64,Southeast,8,9,1
+Friday,Round of 64,West,1,16,1
+Friday,Round of 64,West,9,8,1
+Friday,Round of 64,West,12,5,1
+Friday,Round of 64,West,13,4,1
+Saturday,Round of 32,East,1,8,1
+Saturday,Round of 32,East,4,5,1
+Saturday,Round of 32,Midwest,2,7,1
+Saturday,Round of 32,Midwest,6,3,1
+Saturday,Round of 32,Southeast,3,11,1
+Saturday,Round of 32,Southeast,7,2,1
+Saturday,Round of 32,West,3,6,1
+Saturday,Round of 32,West,7,15,1
+Sunday,Round of 32,East,2,7,1
+Sunday,Round of 32,East,6,3,1
+Sunday,Round of 32,Midwest,1,9,1
+Sunday,Round of 32,Midwest,4,5,1
+Sunday,Round of 32,Southeast,1,8,1
+Sunday,Round of 32,Southeast,5,4,1
+Sunday,Round of 32,West,1,9,1
+Sunday,Round of 32,West,12,13,1
+Thursday,Sweet Sixteen,Midwest,1,4,1
+Thursday,Sweet Sixteen,Midwest,2,6,1
+Thursday,Sweet Sixteen,Southeast,1,5,1
+Thursday,Sweet Sixteen,Southeast,3,7,1
+Friday,Sweet Sixteen,East,1,4,1
+Friday,Sweet Sixteen,East,2,6,1
+Friday,Sweet Sixteen,West,1,12,1
+Friday,Sweet Sixteen,West,7,3,1
+Saturday,Elite Eight,Midwest,2,1,1
+Saturday,Elite Eight,Southeast,1,3,1
+Sunday,Elite Eight,East,1,2,1
+Sunday,Elite Eight,West,1,7,1
+Saturday,National Semifinals,National Semifinals,1,2,1
+Saturday,National Semifinals,National Semifinals,1,1,1
+Monday,National Championship,National Championship,1,1,1
+Thursday,Round of 64,East,2,15,1
+Thursday,Round of 64,East,3,14,1
+Thursday,Round of 64,East,10,7,1
+Thursday,Round of 64,East,11,6,1
+Thursday,Round of 64,Midwest,2,15,1
+Thursday,Round of 64,Midwest,3,14,1
+Thursday,Round of 64,Midwest,6,11,1
+Thursday,Round of 64,Midwest,10,7,1
+Thursday,Round of 64,Southeast,1,16,1
+Thursday,Round of 64,Southeast,4,13,1
+Thursday,Round of 64,Southeast,5,12,1
+Thursday,Round of 64,Southeast,9,8,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,9,8,1
+Thursday,Round of 64,West,12,5,1
+Friday,Round of 64,East,1,16,1
+Friday,Round of 64,East,4,13,1
+Friday,Round of 64,East,5,12,1
+Friday,Round of 64,East,9,8,1
+Friday,Round of 64,Midwest,1,16,1
+Friday,Round of 64,Midwest,4,13,1
+Friday,Round of 64,Midwest,9,8,1
+Friday,Round of 64,Midwest,12,5,1
+Friday,Round of 64,Southeast,2,15,1
+Friday,Round of 64,Southeast,3,14,1
+Friday,Round of 64,Southeast,6,11,1
+Friday,Round of 64,Southeast,7,10,1
+Friday,Round of 64,West,2,15,1
+Friday,Round of 64,West,3,14,1
+Friday,Round of 64,West,6,11,1
+Friday,Round of 64,West,7,10,1
+Saturday,Round of 32,East,2,10,1
+Saturday,Round of 32,East,3,11,1
+Saturday,Round of 32,Midwest,3,6,1
+Saturday,Round of 32,Midwest,10,2,1
+Saturday,Round of 32,Southeast,1,9,1
+Saturday,Round of 32,Southeast,4,5,1
+Saturday,Round of 32,West,1,9,1
+Saturday,Round of 32,West,4,12,1
+Sunday,Round of 32,East,5,4,1
+Sunday,Round of 32,East,9,1,1
+Sunday,Round of 32,Midwest,1,9,1
+Sunday,Round of 32,Midwest,12,4,1
+Sunday,Round of 32,Southeast,2,7,1
+Sunday,Round of 32,Southeast,6,3,1
+Sunday,Round of 32,West,2,7,1
+Sunday,Round of 32,West,3,6,1
+Thursday,Sweet Sixteen,Southeast,1,4,1
+Thursday,Sweet Sixteen,Southeast,2,6,1
+Thursday,Sweet Sixteen,West,1,4,1
+Thursday,Sweet Sixteen,West,2,3,1
+Friday,Sweet Sixteen,East,3,2,1
+Friday,Sweet Sixteen,East,9,5,1
+Friday,Sweet Sixteen,Midwest,1,12,1
+Friday,Sweet Sixteen,Midwest,3,10,1
+Saturday,Elite Eight,Southeast,2,1,1
+Saturday,Elite Eight,West,2,1,1
+Sunday,Elite Eight,East,3,9,1
+Sunday,Elite Eight,Midwest,1,3,1
+Saturday,National Semifinals,National Semifinals,1,2,1
+Saturday,National Semifinals,National Semifinals,2,3,1
+Monday,National Championship,National Championship,1,2,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,5,12,1
+Thursday,Round of 64,East,9,8,1
+Thursday,Round of 64,Midwest,1,16,1
+Thursday,Round of 64,Midwest,4,13,1
+Thursday,Round of 64,Midwest,8,9,1
+Thursday,Round of 64,Midwest,12,5,1
+Thursday,Round of 64,Southeast,1,16,1
+Thursday,Round of 64,Southeast,5,12,1
+Thursday,Round of 64,Southeast,9,8,1
+Thursday,Round of 64,Southeast,13,4,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,7,10,1
+Thursday,Round of 64,West,11,6,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,East,10,7,1
+Friday,Round of 64,East,14,3,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,3,14,1
+Friday,Round of 64,Midwest,6,11,1
+Friday,Round of 64,Midwest,7,10,1
+Friday,Round of 64,Southeast,2,15,1
+Friday,Round of 64,Southeast,6,11,1
+Friday,Round of 64,Southeast,7,10,1
+Friday,Round of 64,Southeast,14,3,1
+Friday,Round of 64,West,1,16,1
+Friday,Round of 64,West,4,13,1
+Friday,Round of 64,West,5,12,1
+Friday,Round of 64,West,8,9,1
+Saturday,Round of 32,East,1,9,1
+Saturday,Round of 32,East,4,5,1
+Saturday,Round of 32,Midwest,1,8,1
+Saturday,Round of 32,Midwest,4,12,1
+Saturday,Round of 32,Southeast,1,9,1
+Saturday,Round of 32,Southeast,5,13,1
+Saturday,Round of 32,West,2,7,1
+Saturday,Round of 32,West,3,11,1
+Sunday,Round of 32,East,2,10,1
+Sunday,Round of 32,East,6,14,1
+Sunday,Round of 32,Midwest,2,7,1
+Sunday,Round of 32,Midwest,6,3,1
+Sunday,Round of 32,Southeast,2,7,1
+Sunday,Round of 32,Southeast,6,14,1
+Sunday,Round of 32,West,1,8,1
+Sunday,Round of 32,West,5,4,1
+Thursday,Sweet Sixteen,Southeast,1,5,1
+Thursday,Sweet Sixteen,Southeast,2,6,1
+Thursday,Sweet Sixteen,West,1,5,1
+Thursday,Sweet Sixteen,West,2,3,1
+Friday,Sweet Sixteen,East,2,6,1
+Friday,Sweet Sixteen,East,4,1,1
+Friday,Sweet Sixteen,Midwest,2,6,1
+Friday,Sweet Sixteen,Midwest,4,1,1
+Saturday,Elite Eight,Southeast,2,1,1
+Saturday,Elite Eight,West,1,2,1
+Sunday,Elite Eight,East,4,2,1
+Sunday,Elite Eight,Midwest,2,4,1
+Saturday,National Semifinals,National Semifinals,1,4,1
+Saturday,National Semifinals,National Semifinals,2,2,1
+Monday,National Championship,National Championship,1,2,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,9,8,1
+Thursday,Round of 64,East,12,5,1
+Thursday,Round of 64,Midwest,1,16,1
+Thursday,Round of 64,Midwest,4,13,1
+Thursday,Round of 64,Midwest,5,12,1
+Thursday,Round of 64,Midwest,9,8,1
+Thursday,Round of 64,Southeast,1,16,1
+Thursday,Round of 64,Southeast,5,12,1
+Thursday,Round of 64,Southeast,9,8,1
+Thursday,Round of 64,Southeast,13,4,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,8,9,1
+Thursday,Round of 64,West,12,5,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,East,7,10,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,3,14,1
+Friday,Round of 64,Midwest,6,11,1
+Friday,Round of 64,Midwest,10,7,1
+Friday,Round of 64,Southeast,2,15,1
+Friday,Round of 64,Southeast,3,14,1
+Friday,Round of 64,Southeast,7,10,1
+Friday,Round of 64,Southeast,11,6,1
+Friday,Round of 64,West,2,15,1
+Friday,Round of 64,West,3,14,1
+Friday,Round of 64,West,6,11,1
+Friday,Round of 64,West,10,7,1
+Saturday,Round of 32,East,1,9,1
+Saturday,Round of 32,East,12,4,1
+Saturday,Round of 32,Midwest,1,9,1
+Saturday,Round of 32,Midwest,4,5,1
+Saturday,Round of 32,Southeast,1,9,1
+Saturday,Round of 32,Southeast,5,13,1
+Saturday,Round of 32,West,4,12,1
+Saturday,Round of 32,West,8,1,1
+Sunday,Round of 32,East,2,7,1
+Sunday,Round of 32,East,3,6,1
+Sunday,Round of 32,Midwest,2,10,1
+Sunday,Round of 32,Midwest,6,3,1
+Sunday,Round of 32,Southeast,2,7,1
+Sunday,Round of 32,Southeast,3,11,1
+Sunday,Round of 32,West,2,10,1
+Sunday,Round of 32,West,3,6,1
+Thursday,Sweet Sixteen,East,1,12,1
+Thursday,Sweet Sixteen,East,2,3,1
+Thursday,Sweet Sixteen,Midwest,1,4,1
+Thursday,Sweet Sixteen,Midwest,2,6,1
+Friday,Sweet Sixteen,Southeast,2,3,1
+Friday,Sweet Sixteen,Southeast,5,1,1
+Friday,Sweet Sixteen,West,2,3,1
+Friday,Sweet Sixteen,West,4,8,1
+Saturday,Elite Eight,East,1,2,1
+Saturday,Elite Eight,Midwest,1,2,1
+Sunday,Elite Eight,Southeast,5,2,1
+Sunday,Elite Eight,West,4,2,1
+Saturday,National Semifinals,National Semifinals,1,1,1
+Saturday,National Semifinals,National Semifinals,4,5,1
+Monday,National Championship,National Championship,1,4,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,5,12,1
+Thursday,Round of 64,East,9,8,1
+Thursday,Round of 64,Midwest,2,15,1
+Thursday,Round of 64,Midwest,3,14,1
+Thursday,Round of 64,Midwest,6,11,1
+Thursday,Round of 64,Midwest,7,10,1
+Thursday,Round of 64,Southeast,1,16,1
+Thursday,Round of 64,Southeast,4,13,1
+Thursday,Round of 64,Southeast,8,9,1
+Thursday,Round of 64,Southeast,12,5,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,5,12,1
+Thursday,Round of 64,West,8,9,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,East,10,7,1
+Friday,Round of 64,East,15,2,1
+Friday,Round of 64,Midwest,1,16,1
+Friday,Round of 64,Midwest,4,13,1
+Friday,Round of 64,Midwest,5,12,1
+Friday,Round of 64,Midwest,9,8,1
+Friday,Round of 64,Southeast,2,15,1
+Friday,Round of 64,Southeast,6,11,1
+Friday,Round of 64,Southeast,10,7,1
+Friday,Round of 64,Southeast,14,3,1
+Friday,Round of 64,West,2,15,1
+Friday,Round of 64,West,3,14,1
+Friday,Round of 64,West,6,11,1
+Friday,Round of 64,West,7,10,1
+Saturday,Round of 32,East,1,9,1
+Saturday,Round of 32,East,5,4,1
+Saturday,Round of 32,Midwest,2,7,1
+Saturday,Round of 32,Midwest,6,3,1
+Saturday,Round of 32,Southeast,1,8,1
+Saturday,Round of 32,Southeast,4,12,1
+Saturday,Round of 32,West,1,8,1
+Saturday,Round of 32,West,4,5,1
+Sunday,Round of 32,East,6,3,1
+Sunday,Round of 32,East,10,15,1
+Sunday,Round of 32,Midwest,1,9,1
+Sunday,Round of 32,Midwest,4,5,1
+Sunday,Round of 32,Southeast,10,2,1
+Sunday,Round of 32,Southeast,14,6,1
+Sunday,Round of 32,West,2,7,1
+Sunday,Round of 32,West,6,3,1
+Thursday,Sweet Sixteen,Midwest,1,4,1
+Thursday,Sweet Sixteen,Midwest,2,6,1
+Thursday,Sweet Sixteen,West,1,4,1
+Thursday,Sweet Sixteen,West,2,6,1
+Friday,Sweet Sixteen,East,1,5,1
+Friday,Sweet Sixteen,East,6,10,1
+Friday,Sweet Sixteen,Southeast,4,1,1
+Friday,Sweet Sixteen,Southeast,10,14,1
+Saturday,Elite Eight,Midwest,1,2,1
+Saturday,Elite Eight,West,1,2,1
+Sunday,Elite Eight,East,1,6,1
+Sunday,Elite Eight,Southeast,4,10,1
+Saturday,National Semifinals,National Semifinals,1,1,1
+Saturday,National Semifinals,National Semifinals,4,1,1
+Monday,National Championship,National Championship,4,1,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,2,15,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,5,12,1
+Thursday,Round of 64,East,7,10,1
+Thursday,Round of 64,East,8,9,1
+Thursday,Round of 64,East,11,6,1
+Thursday,Round of 64,East,14,3,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,5,12,1
+Thursday,Round of 64,West,6,11,1
+Thursday,Round of 64,West,9,8,1
+Thursday,Round of 64,West,10,7,1
+Friday,Round of 64,Midwest,1,16,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,3,14,1
+Friday,Round of 64,Midwest,8,9,1
+Friday,Round of 64,Midwest,10,7,1
+Friday,Round of 64,Midwest,11,6,1
+Friday,Round of 64,Midwest,12,5,1
+Friday,Round of 64,Midwest,13,4,1
+Friday,Round of 64,South,1,16,1
+Friday,Round of 64,South,2,15,1
+Friday,Round of 64,South,3,14,1
+Friday,Round of 64,South,4,13,1
+Friday,Round of 64,South,5,12,1
+Friday,Round of 64,South,6,11,1
+Friday,Round of 64,South,8,9,1
+Friday,Round of 64,South,10,7,1
+Saturday,Round of 32,East,1,8,1
+Saturday,Round of 32,East,2,7,1
+Saturday,Round of 32,East,4,5,1
+Saturday,Round of 32,East,11,14,1
+Saturday,Round of 32,West,1,9,1
+Saturday,Round of 32,West,3,6,1
+Saturday,Round of 32,West,4,5,1
+Saturday,Round of 32,West,10,2,1
+Sunday,Round of 32,Midwest,2,10,1
+Sunday,Round of 32,Midwest,3,11,1
+Sunday,Round of 32,Midwest,8,1,1
+Sunday,Round of 32,Midwest,13,12,1
+Sunday,Round of 32,South,1,8,1
+Sunday,Round of 32,South,2,10,1
+Sunday,Round of 32,South,5,4,1
+Sunday,Round of 32,South,6,3,1
+Thursday,Sweet Sixteen,East,1,4,1
+Thursday,Sweet Sixteen,East,2,11,1
+Thursday,Sweet Sixteen,West,1,4,1
+Thursday,Sweet Sixteen,West,3,10,1
+Friday,Sweet Sixteen,Midwest,3,2,1
+Friday,Sweet Sixteen,Midwest,8,13,1
+Friday,Sweet Sixteen,South,1,5,1
+Friday,Sweet Sixteen,South,2,6,1
+Saturday,Elite Eight,East,1,2,1
+Saturday,Elite Eight,West,3,1,1
+Sunday,Elite Eight,Midwest,3,8,1
+Sunday,Elite Eight,South,2,1,1
+Saturday,National Semifinals,National Semifinals,2,3,1
+Saturday,National Semifinals,National Semifinals,3,1,1
+Monday,National Championship,National Championship,2,3,1
+Thursday,Round of 64,South,1,16,1
+Thursday,Round of 64,South,2,15,1
+Thursday,Round of 64,South,3,14,1
+Thursday,Round of 64,South,4,13,1
+Thursday,Round of 64,South,6,11,1
+Thursday,Round of 64,South,9,8,1
+Thursday,Round of 64,South,10,7,1
+Thursday,Round of 64,South,12,5,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,5,12,1
+Thursday,Round of 64,West,6,11,1
+Thursday,Round of 64,West,9,8,1
+Thursday,Round of 64,West,10,7,1
+Thursday,Round of 64,West,14,3,1
+Friday,Round of 64,East,1,16,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,4,13,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,East,9,8,1
+Friday,Round of 64,East,10,7,1
+Friday,Round of 64,East,12,5,1
+Friday,Round of 64,Midwest,1,16,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,3,14,1
+Friday,Round of 64,Midwest,5,12,1
+Friday,Round of 64,Midwest,6,11,1
+Friday,Round of 64,Midwest,9,8,1
+Friday,Round of 64,Midwest,10,7,1
+Friday,Round of 64,Midwest,13,4,1
+Saturday,Round of 32,South,1,9,1
+Saturday,Round of 32,South,2,10,1
+Saturday,Round of 32,South,3,6,1
+Saturday,Round of 32,South,4,12,1
+Saturday,Round of 32,West,1,9,1
+Saturday,Round of 32,West,5,4,1
+Saturday,Round of 32,West,6,14,1
+Saturday,Round of 32,West,10,2,1
+Sunday,Round of 32,East,1,9,1
+Sunday,Round of 32,East,6,3,1
+Sunday,Round of 32,East,10,2,1
+Sunday,Round of 32,East,12,4,1
+Sunday,Round of 32,Midwest,1,9,1
+Sunday,Round of 32,Midwest,3,6,1
+Sunday,Round of 32,Midwest,10,2,1
+Sunday,Round of 32,Midwest,13,5,1
+Thursday,Sweet Sixteen,South,3,2,1
+Thursday,Sweet Sixteen,South,4,1,1
+Thursday,Sweet Sixteen,West,1,5,1
+Thursday,Sweet Sixteen,West,10,6,1
+Friday,Sweet Sixteen,East,1,12,1
+Friday,Sweet Sixteen,East,6,10,1
+Friday,Sweet Sixteen,Midwest,1,13,1
+Friday,Sweet Sixteen,Midwest,3,10,1
+Saturday,Elite Eight,South,4,3,1
+Saturday,Elite Eight,West,1,10,1
+Sunday,Elite Eight,East,1,6,1
+Sunday,Elite Eight,Midwest,1,3,1
+Saturday,National Semifinals,National Semifinals,1,1,1
+Saturday,National Semifinals,National Semifinals,1,4,1
+Monday,National Championship,National Championship,1,1,1
+Thursday,Round of 64,Midwest,1,16,1
+Thursday,Round of 64,Midwest,2,15,1
+Thursday,Round of 64,Midwest,3,14,1
+Thursday,Round of 64,Midwest,4,13,1
+Thursday,Round of 64,Midwest,5,12,1
+Thursday,Round of 64,Midwest,6,11,1
+Thursday,Round of 64,Midwest,7,10,1
+Thursday,Round of 64,Midwest,8,9,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,5,12,1
+Thursday,Round of 64,West,6,11,1
+Thursday,Round of 64,West,8,9,1
+Thursday,Round of 64,West,10,7,1
+Friday,Round of 64,East,1,16,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,4,13,1
+Friday,Round of 64,East,5,12,1
+Friday,Round of 64,East,8,9,1
+Friday,Round of 64,East,10,7,1
+Friday,Round of 64,East,11,6,1
+Friday,Round of 64,South,1,16,1
+Friday,Round of 64,South,2,15,1
+Friday,Round of 64,South,3,14,1
+Friday,Round of 64,South,4,13,1
+Friday,Round of 64,South,5,12,1
+Friday,Round of 64,South,6,11,1
+Friday,Round of 64,South,7,10,1
+Friday,Round of 64,South,8,9,1
+Saturday,Round of 32,Midwest,1,8,1
+Saturday,Round of 32,Midwest,2,7,1
+Saturday,Round of 32,Midwest,4,5,1
+Saturday,Round of 32,Midwest,6,3,1
+Saturday,Round of 32,West,4,5,1
+Saturday,Round of 32,West,6,3,1
+Saturday,Round of 32,West,8,1,1
+Saturday,Round of 32,West,10,2,1
+Sunday,Round of 32,East,1,8,1
+Sunday,Round of 32,East,3,11,1
+Sunday,Round of 32,East,5,4,1
+Sunday,Round of 32,East,10,2,1
+Sunday,Round of 32,South,4,5,1
+Sunday,Round of 32,South,6,3,1
+Sunday,Round of 32,South,7,2,1
+Sunday,Round of 32,South,8,1,1
+Thursday,Sweet Sixteen,Midwest,1,4,1
+Thursday,Sweet Sixteen,Midwest,2,6,1
+Thursday,Sweet Sixteen,West,6,10,1
+Thursday,Sweet Sixteen,West,8,4,1
+Friday,Sweet Sixteen,East,3,10,1
+Friday,Sweet Sixteen,East,5,1,1
+Friday,Sweet Sixteen,South,7,6,1
+Friday,Sweet Sixteen,South,8,4,1
+Saturday,Elite Eight,Midwest,1,2,1
+Saturday,Elite Eight,West,8,6,1
+Sunday,Elite Eight,East,5,3,1
+Sunday,Elite Eight,South,8,7,1
+Saturday,National Semifinals,National Semifinals,1,8,1
+Saturday,National Semifinals,National Semifinals,5,8,1
+Monday,National Championship,National Championship,1,5,1
+Tuesday,Opening Round,Midwest,16,16,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,2,15,1
+Thursday,Round of 64,East,3,14,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,6,11,1
+Thursday,Round of 64,East,7,10,1
+Thursday,Round of 64,East,9,8,1
+Thursday,Round of 64,East,12,5,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,5,12,1
+Thursday,Round of 64,West,9,8,1
+Thursday,Round of 64,West,10,7,1
+Thursday,Round of 64,West,11,6,1
+Thursday,Round of 64,West,13,4,1
+Thursday,Round of 64,West,15,2,1
+Friday,Round of 64,Midwest,1,16,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,3,14,1
+Friday,Round of 64,Midwest,4,13,1
+Friday,Round of 64,Midwest,5,12,1
+Friday,Round of 64,Midwest,6,11,1
+Friday,Round of 64,Midwest,9,8,1
+Friday,Round of 64,Midwest,10,7,1
+Friday,Round of 64,South,1,16,1
+Friday,Round of 64,South,2,15,1
+Friday,Round of 64,South,3,14,1
+Friday,Round of 64,South,7,10,1
+Friday,Round of 64,South,9,8,1
+Friday,Round of 64,South,11,6,1
+Friday,Round of 64,South,12,5,1
+Friday,Round of 64,South,13,4,1
+Saturday,Round of 32,East,1,9,1
+Saturday,Round of 32,East,2,7,1
+Saturday,Round of 32,East,4,12,1
+Saturday,Round of 32,East,6,3,1
+Saturday,Round of 32,West,1,9,1
+Saturday,Round of 32,West,3,11,1
+Saturday,Round of 32,West,5,13,1
+Saturday,Round of 32,West,10,15,1
+Sunday,Round of 32,Midwest,1,9,1
+Sunday,Round of 32,Midwest,2,10,1
+Sunday,Round of 32,Midwest,3,6,1
+Sunday,Round of 32,Midwest,4,5,1
+Sunday,Round of 32,South,1,9,1
+Sunday,Round of 32,South,7,2,1
+Sunday,Round of 32,South,11,3,1
+Sunday,Round of 32,South,12,13,1
+Thursday,Sweet Sixteen,East,1,4,1
+Thursday,Sweet Sixteen,East,6,2,1
+Thursday,Sweet Sixteen,West,1,5,1
+Thursday,Sweet Sixteen,West,3,10,1
+Friday,Sweet Sixteen,Midwest,1,4,1
+Friday,Sweet Sixteen,Midwest,2,3,1
+Friday,Sweet Sixteen,South,1,12,1
+Friday,Sweet Sixteen,South,11,7,1
+Saturday,Elite Eight,East,1,6,1
+Saturday,Elite Eight,West,3,1,1
+Sunday,Elite Eight,Midwest,2,1,1
+Sunday,Elite Eight,South,1,11,1
+Saturday,National Semifinals,National Semifinals,1,3,1
+Saturday,National Semifinals,National Semifinals,2,1,1
+Monday,National Championship,National Championship,1,2,1
+Tuesday,Opening Round,East,16,16,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,12,5,1
+Thursday,Round of 64,Midwest,1,16,1
+Thursday,Round of 64,Midwest,2,15,1
+Thursday,Round of 64,Midwest,7,10,1
+Thursday,Round of 64,Midwest,8,9,1
+Thursday,Round of 64,South,1,16,1
+Thursday,Round of 64,South,2,15,1
+Thursday,Round of 64,South,5,12,1
+Thursday,Round of 64,South,8,9,1
+Thursday,Round of 64,South,10,7,1
+Thursday,Round of 64,South,13,4,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,11,6,1
+Thursday,Round of 64,West,12,5,1
+Friday,Round of 64,East,1,16,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,7,10,1
+Friday,Round of 64,East,8,9,1
+Friday,Round of 64,East,11,6,1
+Friday,Round of 64,Midwest,3,14,1
+Friday,Round of 64,Midwest,4,13,1
+Friday,Round of 64,Midwest,6,11,1
+Friday,Round of 64,Midwest,12,5,1
+Friday,Round of 64,South,3,14,1
+Friday,Round of 64,South,6,11,1
+Friday,Round of 64,West,1,16,1
+Friday,Round of 64,West,2,15,1
+Friday,Round of 64,West,7,10,1
+Friday,Round of 64,West,8,9,1
+Saturday,Round of 32,East,4,12,1
+Saturday,Round of 32,Midwest,1,8,1
+Saturday,Round of 32,Midwest,2,7,1
+Saturday,Round of 32,South,1,8,1
+Saturday,Round of 32,South,5,13,1
+Saturday,Round of 32,South,10,2,1
+Saturday,Round of 32,West,3,11,1
+Saturday,Round of 32,West,12,4,1
+Sunday,Round of 32,East,1,8,1
+Sunday,Round of 32,East,2,7,1
+Sunday,Round of 32,East,11,3,1
+Sunday,Round of 32,Midwest,4,12,1
+Sunday,Round of 32,Midwest,6,3,1
+Sunday,Round of 32,South,3,6,1
+Sunday,Round of 32,West,2,7,1
+Sunday,Round of 32,West,8,1,1
+Thursday,Sweet Sixteen,South,5,1,1
+Thursday,Sweet Sixteen,South,10,3,1
+Thursday,Sweet Sixteen,West,2,3,1
+Thursday,Sweet Sixteen,West,12,8,1
+Friday,Sweet Sixteen,East,1,4,1
+Friday,Sweet Sixteen,East,2,11,1
+Friday,Sweet Sixteen,Midwest,1,4,1
+Friday,Sweet Sixteen,Midwest,2,6,1
+Saturday,Elite Eight,South,5,10,1
+Saturday,Elite Eight,West,2,12,1
+Sunday,Elite Eight,East,1,2,1
+Sunday,Elite Eight,Midwest,1,2,1
+Saturday,National Semifinals,National Semifinals,1,1,1
+Saturday,National Semifinals,National Semifinals,5,2,1
+Monday,National Championship,National Championship,1,5,1
+Tuesday,Opening Round,South,16,16,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,8,9,1
+Thursday,Round of 64,Midwest,3,14,1
+Thursday,Round of 64,Midwest,5,12,1
+Thursday,Round of 64,Midwest,6,11,1
+Thursday,Round of 64,Midwest,13,4,1
+Thursday,Round of 64,South,4,13,1
+Thursday,Round of 64,South,5,12,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,5,12,1
+Thursday,Round of 64,West,9,8,1
+Thursday,Round of 64,West,10,7,1
+Thursday,Round of 64,West,11,6,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,4,13,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,East,10,7,1
+Friday,Round of 64,East,12,5,1
+Friday,Round of 64,Midwest,1,16,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,7,10,1
+Friday,Round of 64,Midwest,9,8,1
+Friday,Round of 64,South,1,16,1
+Friday,Round of 64,South,2,15,1
+Friday,Round of 64,South,3,14,1
+Friday,Round of 64,South,6,11,1
+Friday,Round of 64,South,7,10,1
+Friday,Round of 64,South,9,8,1
+Saturday,Round of 32,East,1,8,1
+Saturday,Round of 32,Midwest,3,6,1
+Saturday,Round of 32,Midwest,5,13,1
+Saturday,Round of 32,South,5,4,1
+Saturday,Round of 32,West,1,9,1
+Saturday,Round of 32,West,2,10,1
+Saturday,Round of 32,West,3,11,1
+Saturday,Round of 32,West,5,4,1
+Sunday,Round of 32,East,3,6,1
+Sunday,Round of 32,East,10,2,1
+Sunday,Round of 32,East,12,4,1
+Sunday,Round of 32,Midwest,1,9,1
+Sunday,Round of 32,Midwest,2,7,1
+Sunday,Round of 32,South,1,9,1
+Sunday,Round of 32,South,6,3,1
+Sunday,Round of 32,South,7,2,1
+Thursday,Sweet Sixteen,Midwest,1,5,1
+Thursday,Sweet Sixteen,Midwest,3,2,1
+Thursday,Sweet Sixteen,West,1,5,1
+Thursday,Sweet Sixteen,West,2,3,1
+Friday,Sweet Sixteen,East,1,12,1
+Friday,Sweet Sixteen,East,3,10,1
+Friday,Sweet Sixteen,South,1,5,1
+Friday,Sweet Sixteen,South,7,6,1
+Saturday,Elite Eight,Midwest,3,1,1
+Saturday,Elite Eight,West,2,1,1
+Sunday,Elite Eight,East,3,1,1
+Sunday,Elite Eight,South,1,7,1
+Saturday,National Semifinals,National Semifinals,2,3,1
+Saturday,National Semifinals,National Semifinals,3,1,1
+Monday,National Championship,National Championship,3,2,1
+Tuesday,Opening Round,Midwest,16,16,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,8,9,1
+Thursday,Round of 64,East,12,5,1
+Thursday,Round of 64,Midwest,2,15,1
+Thursday,Round of 64,Midwest,10,7,1
+Thursday,Round of 64,South,1,16,1
+Thursday,Round of 64,South,3,14,1
+Thursday,Round of 64,South,6,11,1
+Thursday,Round of 64,South,8,9,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,5,12,1
+Thursday,Round of 64,West,7,10,1
+Thursday,Round of 64,West,8,9,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,East,7,10,1
+Friday,Round of 64,Midwest,1,16,1
+Friday,Round of 64,Midwest,3,14,1
+Friday,Round of 64,Midwest,4,13,1
+Friday,Round of 64,Midwest,6,11,1
+Friday,Round of 64,Midwest,9,8,1
+Friday,Round of 64,Midwest,12,5,1
+Friday,Round of 64,South,2,15,1
+Friday,Round of 64,South,4,13,1
+Friday,Round of 64,South,5,12,1
+Friday,Round of 64,South,7,10,1
+Friday,Round of 64,West,3,14,1
+Friday,Round of 64,West,6,11,1
+Saturday,Round of 32,East,1,8,1
+Saturday,Round of 32,East,4,12,1
+Saturday,Round of 32,Midwest,10,2,1
+Saturday,Round of 32,South,1,8,1
+Saturday,Round of 32,South,3,6,1
+Saturday,Round of 32,West,2,7,1
+Saturday,Round of 32,West,5,4,1
+Saturday,Round of 32,West,8,1,1
+Sunday,Round of 32,East,2,7,1
+Sunday,Round of 32,East,3,6,1
+Sunday,Round of 32,Midwest,3,6,1
+Sunday,Round of 32,Midwest,4,12,1
+Sunday,Round of 32,Midwest,9,1,1
+Sunday,Round of 32,South,5,4,1
+Sunday,Round of 32,South,7,2,1
+Sunday,Round of 32,West,6,3,1
+Thursday,Sweet Sixteen,East,1,4,1
+Thursday,Sweet Sixteen,East,2,3,1
+Thursday,Sweet Sixteen,West,2,6,1
+Thursday,Sweet Sixteen,West,8,5,1
+Friday,Sweet Sixteen,Midwest,3,10,1
+Friday,Sweet Sixteen,Midwest,4,9,1
+Friday,Sweet Sixteen,South,1,5,1
+Friday,Sweet Sixteen,South,7,3,1
+Saturday,Elite Eight,East,2,1,1
+Saturday,Elite Eight,West,2,8,1
+Sunday,Elite Eight,Midwest,3,4,1
+Sunday,Elite Eight,South,1,7,1
+Saturday,National Semifinals,National Semifinals,2,1,1
+Saturday,National Semifinals,National Semifinals,3,2,1
+Monday,National Championship,National Championship,2,3,1
+Tuesday,Opening Round,East,16,16,1
+Thursday,Round of 64,Midwest,1,16,1
+Thursday,Round of 64,Midwest,3,14,1
+Thursday,Round of 64,Midwest,4,13,1
+Thursday,Round of 64,Midwest,9,8,1
+Thursday,Round of 64,Midwest,11,6,1
+Thursday,Round of 64,Midwest,12,5,1
+Thursday,Round of 64,South,2,15,1
+Thursday,Round of 64,South,3,14,1
+Thursday,Round of 64,South,6,11,1
+Thursday,Round of 64,South,7,10,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,6,11,1
+Thursday,Round of 64,West,7,10,1
+Thursday,Round of 64,West,8,9,1
+Friday,Round of 64,East,1,16,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,4,13,1
+Friday,Round of 64,East,5,12,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,East,9,8,1
+Friday,Round of 64,East,10,7,1
+Friday,Round of 64,East,14,3,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,7,10,1
+Friday,Round of 64,South,1,16,1
+Friday,Round of 64,South,5,12,1
+Friday,Round of 64,South,9,8,1
+Friday,Round of 64,South,13,4,1
+Friday,Round of 64,West,4,13,1
+Friday,Round of 64,West,5,12,1
+Saturday,Round of 32,Midwest,1,9,1
+Saturday,Round of 32,Midwest,3,11,1
+Saturday,Round of 32,Midwest,12,4,1
+Saturday,Round of 32,South,2,7,1
+Saturday,Round of 32,South,6,3,1
+Saturday,Round of 32,West,1,8,1
+Saturday,Round of 32,West,6,3,1
+Saturday,Round of 32,West,7,2,1
+Sunday,Round of 32,East,1,9,1
+Sunday,Round of 32,East,5,4,1
+Sunday,Round of 32,East,6,14,1
+Sunday,Round of 32,East,10,2,1
+Sunday,Round of 32,Midwest,2,7,1
+Sunday,Round of 32,South,1,9,1
+Sunday,Round of 32,South,5,13,1
+Sunday,Round of 32,West,4,5,1
+Thursday,Sweet Sixteen,Midwest,1,12,1
+Thursday,Sweet Sixteen,Midwest,3,2,1
+Thursday,Sweet Sixteen,West,4,1,1
+Thursday,Sweet Sixteen,West,7,6,1
+Friday,Sweet Sixteen,East,1,5,1
+Friday,Sweet Sixteen,East,6,10,1
+Friday,Sweet Sixteen,South,2,6,1
+Friday,Sweet Sixteen,South,5,1,1
+Saturday,Elite Eight,Midwest,1,3,1
+Saturday,Elite Eight,West,4,7,1
+Sunday,Elite Eight,East,1,6,1
+Sunday,Elite Eight,South,5,2,1
+Saturday,National Semifinals,National Semifinals,1,5,1
+Saturday,National Semifinals,National Semifinals,1,4,1
+Monday,National Championship,National Championship,1,1,1
+Tuesday,Opening Round,Midwest,16,16,1
+Thursday,Round of 64,East,2,15,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,5,12,1
+Thursday,Round of 64,East,7,10,1
+Thursday,Round of 64,Midwest,3,14,1
+Thursday,Round of 64,Midwest,4,13,1
+Thursday,Round of 64,Midwest,11,6,1
+Thursday,Round of 64,Midwest,12,5,1
+Thursday,Round of 64,South,1,16,1
+Thursday,Round of 64,South,4,13,1
+Thursday,Round of 64,South,8,9,1
+Thursday,Round of 64,South,12,5,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,6,11,1
+Thursday,Round of 64,West,10,7,1
+Friday,Round of 64,East,1,16,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,8,9,1
+Friday,Round of 64,East,11,6,1
+Friday,Round of 64,Midwest,1,16,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,7,10,1
+Friday,Round of 64,Midwest,8,9,1
+Friday,Round of 64,South,2,15,1
+Friday,Round of 64,South,6,11,1
+Friday,Round of 64,South,10,7,1
+Friday,Round of 64,South,14,3,1
+Friday,Round of 64,West,1,16,1
+Friday,Round of 64,West,5,12,1
+Friday,Round of 64,West,9,8,1
+Friday,Round of 64,West,13,4,1
+Saturday,Round of 32,East,5,4,1
+Saturday,Round of 32,East,7,2,1
+Saturday,Round of 32,Midwest,3,11,1
+Saturday,Round of 32,Midwest,4,12,1
+Saturday,Round of 32,South,1,8,1
+Saturday,Round of 32,South,4,12,1
+Saturday,Round of 32,West,2,10,1
+Saturday,Round of 32,West,3,6,1
+Sunday,Round of 32,East,1,8,1
+Sunday,Round of 32,East,11,3,1
+Sunday,Round of 32,Midwest,1,8,1
+Sunday,Round of 32,Midwest,7,2,1
+Sunday,Round of 32,South,2,10,1
+Sunday,Round of 32,South,6,14,1
+Sunday,Round of 32,West,1,9,1
+Sunday,Round of 32,West,13,5,1
+Thursday,Sweet Sixteen,South,2,6,1
+Thursday,Sweet Sixteen,South,4,1,1
+Thursday,Sweet Sixteen,West,1,13,1
+Thursday,Sweet Sixteen,West,2,3,1
+Friday,Sweet Sixteen,East,1,5,1
+Friday,Sweet Sixteen,East,11,7,1
+Friday,Sweet Sixteen,Midwest,1,4,1
+Friday,Sweet Sixteen,Midwest,3,7,1
+Saturday,Elite Eight,South,4,2,1
+Saturday,Elite Eight,West,2,1,1
+Sunday,Elite Eight,East,11,1,1
+Sunday,Elite Eight,Midwest,3,1,1
+Saturday,National Semifinals,National Semifinals,2,4,1
+Saturday,National Semifinals,National Semifinals,3,11,1
+Monday,National Championship,National Championship,3,2,1
+Tuesday,Opening Round,West,16,16,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,2,15,1
+Thursday,Round of 64,East,3,14,1
+Thursday,Round of 64,East,6,11,1
+Thursday,Round of 64,East,7,10,1
+Thursday,Round of 64,East,9,8,1
+Thursday,Round of 64,Midwest,4,13,1
+Thursday,Round of 64,Midwest,5,12,1
+Thursday,Round of 64,South,1,16,1
+Thursday,Round of 64,South,3,14,1
+Thursday,Round of 64,South,6,11,1
+Thursday,Round of 64,South,9,8,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,7,10,1
+Thursday,Round of 64,West,11,6,1
+Friday,Round of 64,East,4,13,1
+Friday,Round of 64,East,5,12,1
+Friday,Round of 64,Midwest,1,16,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,3,14,1
+Friday,Round of 64,Midwest,7,10,1
+Friday,Round of 64,Midwest,9,8,1
+Friday,Round of 64,Midwest,11,6,1
+Friday,Round of 64,South,2,15,1
+Friday,Round of 64,South,4,13,1
+Friday,Round of 64,South,5,12,1
+Friday,Round of 64,South,7,10,1
+Friday,Round of 64,West,1,16,1
+Friday,Round of 64,West,4,13,1
+Friday,Round of 64,West,5,12,1
+Friday,Round of 64,West,8,9,1
+Saturday,Round of 32,East,1,9,1
+Saturday,Round of 32,East,2,7,1
+Saturday,Round of 32,East,6,3,1
+Saturday,Round of 32,Midwest,5,4,1
+Saturday,Round of 32,South,1,9,1
+Saturday,Round of 32,South,3,6,1
+Saturday,Round of 32,West,2,7,1
+Saturday,Round of 32,West,3,11,1
+Sunday,Round of 32,East,5,4,1
+Sunday,Round of 32,Midwest,1,9,1
+Sunday,Round of 32,Midwest,3,11,1
+Sunday,Round of 32,Midwest,7,2,1
+Sunday,Round of 32,South,2,7,1
+Sunday,Round of 32,South,5,4,1
+Sunday,Round of 32,West,1,8,1
+Sunday,Round of 32,West,4,5,1
+Thursday,Sweet Sixteen,South,1,5,1
+Thursday,Sweet Sixteen,South,2,3,1
+Thursday,Sweet Sixteen,West,1,4,1
+Thursday,Sweet Sixteen,West,2,3,1
+Friday,Sweet Sixteen,East,1,5,1
+Friday,Sweet Sixteen,East,2,6,1
+Friday,Sweet Sixteen,Midwest,1,5,1
+Friday,Sweet Sixteen,Midwest,3,7,1
+Saturday,Elite Eight,South,1,2,1
+Saturday,Elite Eight,West,2,1,1
+Sunday,Elite Eight,East,2,1,1
+Sunday,Elite Eight,Midwest,1,3,1
+Saturday,National Semifinals,National Semifinals,1,2,1
+Saturday,National Semifinals,National Semifinals,1,2,1
+Monday,National Championship,National Championship,1,1,1
+Tuesday,Opening Round,East,16,16,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,5,12,1
+Thursday,Round of 64,Midwest,1,16,1
+Thursday,Round of 64,Midwest,3,14,1
+Thursday,Round of 64,Midwest,8,9,1
+Thursday,Round of 64,Midwest,11,6,1
+Thursday,Round of 64,South,3,14,1
+Thursday,Round of 64,South,4,13,1
+Thursday,Round of 64,South,5,12,1
+Thursday,Round of 64,South,6,11,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,6,11,1
+Thursday,Round of 64,West,7,10,1
+Thursday,Round of 64,West,9,8,1
+Friday,Round of 64,East,1,16,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,East,7,10,1
+Friday,Round of 64,East,9,8,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,10,7,1
+Friday,Round of 64,Midwest,12,5,1
+Friday,Round of 64,Midwest,13,4,1
+Friday,Round of 64,South,1,16,1
+Friday,Round of 64,South,2,15,1
+Friday,Round of 64,South,7,10,1
+Friday,Round of 64,South,8,9,1
+Friday,Round of 64,West,12,5,1
+Friday,Round of 64,West,13,4,1
+Saturday,Round of 32,East,4,5,1
+Saturday,Round of 32,Midwest,1,8,1
+Saturday,Round of 32,Midwest,3,11,1
+Saturday,Round of 32,South,3,6,1
+Saturday,Round of 32,South,5,4,1
+Saturday,Round of 32,West,1,9,1
+Saturday,Round of 32,West,3,6,1
+Saturday,Round of 32,West,7,2,1
+Sunday,Round of 32,East,1,9,1
+Sunday,Round of 32,East,2,7,1
+Sunday,Round of 32,East,3,6,1
+Sunday,Round of 32,Midwest,10,2,1
+Sunday,Round of 32,Midwest,12,13,1
+Sunday,Round of 32,South,1,8,1
+Sunday,Round of 32,South,2,7,1
+Sunday,Round of 32,West,12,13,1
+Thursday,Sweet Sixteen,East,1,4,1
+Thursday,Sweet Sixteen,East,3,2,1
+Thursday,Sweet Sixteen,West,1,12,1
+Thursday,Sweet Sixteen,West,3,7,1
+Friday,Sweet Sixteen,Midwest,1,12,1
+Friday,Sweet Sixteen,Midwest,10,3,1
+Friday,Sweet Sixteen,South,1,5,1
+Friday,Sweet Sixteen,South,2,3,1
+Saturday,Elite Eight,East,1,3,1
+Saturday,Elite Eight,West,1,3,1
+Sunday,Elite Eight,Midwest,1,10,1
+Sunday,Elite Eight,South,1,2,1
+Saturday,National Semifinals,National Semifinals,1,1,1
+Saturday,National Semifinals,National Semifinals,1,1,1
+Monday,National Championship,National Championship,1,1,1
+Tuesday,Opening Round,Midwest,16,16,1
+Thursday,Round of 64,East,2,15,1
+Thursday,Round of 64,East,3,14,1
+Thursday,Round of 64,East,6,11,1
+Thursday,Round of 64,East,7,10,1
+Thursday,Round of 64,South,1,16,1
+Thursday,Round of 64,South,2,15,1
+Thursday,Round of 64,South,4,13,1
+Thursday,Round of 64,South,8,9,1
+Thursday,Round of 64,South,10,7,1
+Thursday,Round of 64,South,12,5,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,5,12,1
+Thursday,Round of 64,West,9,8,1
+Thursday,Round of 64,West,10,7,1
+Friday,Round of 64,East,1,16,1
+Friday,Round of 64,East,4,13,1
+Friday,Round of 64,East,8,9,1
+Friday,Round of 64,East,12,5,1
+Friday,Round of 64,Midwest,1,16,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,3,14,1
+Friday,Round of 64,Midwest,9,8,1
+Friday,Round of 64,Midwest,10,7,1
+Friday,Round of 64,Midwest,11,6,1
+Friday,Round of 64,Midwest,12,5,1
+Friday,Round of 64,Midwest,13,4,1
+Friday,Round of 64,South,3,14,1
+Friday,Round of 64,South,6,11,1
+Friday,Round of 64,West,3,14,1
+Friday,Round of 64,West,6,11,1
+Saturday,Round of 32,East,2,7,1
+Saturday,Round of 32,East,3,6,1
+Saturday,Round of 32,South,1,8,1
+Saturday,Round of 32,South,2,10,1
+Saturday,Round of 32,South,4,12,1
+Saturday,Round of 32,West,1,9,1
+Saturday,Round of 32,West,2,10,1
+Saturday,Round of 32,West,5,4,1
+Sunday,Round of 32,East,1,8,1
+Sunday,Round of 32,East,4,12,1
+Sunday,Round of 32,Midwest,1,9,1
+Sunday,Round of 32,Midwest,2,10,1
+Sunday,Round of 32,Midwest,3,11,1
+Sunday,Round of 32,Midwest,12,13,1
+Sunday,Round of 32,South,3,6,1
+Sunday,Round of 32,West,3,6,1
+Thursday,Sweet Sixteen,East,1,4,1
+Thursday,Sweet Sixteen,East,3,2,1
+Thursday,Sweet Sixteen,West,1,5,1
+Thursday,Sweet Sixteen,West,3,2,1
+Friday,Sweet Sixteen,Midwest,1,12,1
+Friday,Sweet Sixteen,Midwest,2,3,1
+Friday,Sweet Sixteen,South,1,4,1
+Friday,Sweet Sixteen,South,2,3,1
+Saturday,Elite Eight,East,3,1,1
+Saturday,Elite Eight,West,1,3,1
+Sunday,Elite Eight,Midwest,2,1,1
+Sunday,Elite Eight,South,1,2,1
+Saturday,National Semifinals,National Semifinals,1,3,1
+Saturday,National Semifinals,National Semifinals,2,1,1
+Monday,National Championship,National Championship,1,2,1
+Tuesday,Opening Round,South,16,16,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,3,14,1
+Thursday,Round of 64,East,9,8,1
+Thursday,Round of 64,East,11,6,1
+Thursday,Round of 64,Midwest,1,16,1
+Thursday,Round of 64,Midwest,6,11,1
+Thursday,Round of 64,Midwest,9,8,1
+Thursday,Round of 64,Midwest,14,3,1
+Thursday,Round of 64,South,2,15,1
+Thursday,Round of 64,South,3,14,1
+Thursday,Round of 64,South,10,7,1
+Thursday,Round of 64,South,11,6,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,5,12,1
+Thursday,Round of 64,West,7,10,1
+Thursday,Round of 64,West,13,4,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,4,13,1
+Friday,Round of 64,East,10,7,1
+Friday,Round of 64,East,12,5,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,4,13,1
+Friday,Round of 64,Midwest,5,12,1
+Friday,Round of 64,Midwest,10,7,1
+Friday,Round of 64,South,1,16,1
+Friday,Round of 64,South,4,13,1
+Friday,Round of 64,South,5,12,1
+Friday,Round of 64,South,8,9,1
+Friday,Round of 64,West,1,16,1
+Friday,Round of 64,West,3,14,1
+Friday,Round of 64,West,6,11,1
+Friday,Round of 64,West,8,9,1
+Saturday,Round of 32,East,1,9,1
+Saturday,Round of 32,East,11,3,1
+Saturday,Round of 32,Midwest,6,14,1
+Saturday,Round of 32,Midwest,9,1,1
+Saturday,Round of 32,South,3,11,1
+Saturday,Round of 32,South,10,2,1
+Saturday,Round of 32,West,2,7,1
+Saturday,Round of 32,West,5,13,1
+Sunday,Round of 32,East,2,10,1
+Sunday,Round of 32,East,12,4,1
+Sunday,Round of 32,Midwest,2,10,1
+Sunday,Round of 32,Midwest,5,4,1
+Sunday,Round of 32,South,1,8,1
+Sunday,Round of 32,South,4,5,1
+Sunday,Round of 32,West,1,8,1
+Sunday,Round of 32,West,6,3,1
+Thursday,Sweet Sixteen,East,1,12,1
+Thursday,Sweet Sixteen,East,2,11,1
+Thursday,Sweet Sixteen,West,2,6,1
+Thursday,Sweet Sixteen,West,5,1,1
+Friday,Sweet Sixteen,Midwest,5,9,1
+Friday,Sweet Sixteen,Midwest,6,2,1
+Friday,Sweet Sixteen,South,1,4,1
+Friday,Sweet Sixteen,South,3,10,1
+Saturday,Elite Eight,East,2,1,1
+Saturday,Elite Eight,West,5,2,1
+Sunday,Elite Eight,Midwest,5,6,1
+Sunday,Elite Eight,South,1,3,1
+Saturday,National Semifinals,National Semifinals,1,2,1
+Saturday,National Semifinals,National Semifinals,5,5,1
+Monday,National Championship,National Championship,1,5,1
+Tuesday,Opening Round,East,12,12,1
+Tuesday,Opening Round,Southeast,16,16,1
+Wednesday,Opening Round,East,16,16,1
+Wednesday,Opening Round,Southwest,11,11,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,5,12,1
+Thursday,Round of 64,Southeast,1,16,1
+Thursday,Round of 64,Southeast,2,15,1
+Thursday,Round of 64,Southeast,3,14,1
+Thursday,Round of 64,Southeast,4,13,1
+Thursday,Round of 64,Southeast,5,12,1
+Thursday,Round of 64,Southeast,7,10,1
+Thursday,Round of 64,Southeast,8,9,1
+Thursday,Round of 64,Southeast,11,6,1
+Thursday,Round of 64,Southwest,12,5,1
+Thursday,Round of 64,Southwest,13,4,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,6,11,1
+Thursday,Round of 64,West,7,10,1
+Friday,Round of 64,East,1,16,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,7,10,1
+Friday,Round of 64,East,8,9,1
+Friday,Round of 64,East,11,6,1
+Friday,Round of 64,Southwest,1,16,1
+Friday,Round of 64,Southwest,2,15,1
+Friday,Round of 64,Southwest,3,14,1
+Friday,Round of 64,Southwest,9,8,1
+Friday,Round of 64,Southwest,10,7,1
+Friday,Round of 64,Southwest,11,6,1
+Friday,Round of 64,West,1,16,1
+Friday,Round of 64,West,4,13,1
+Friday,Round of 64,West,5,12,1
+Friday,Round of 64,West,8,9,1
+Saturday,Round of 32,East,4,5,1
+Saturday,Round of 32,Southeast,2,7,1
+Saturday,Round of 32,Southeast,3,11,1
+Saturday,Round of 32,Southeast,4,5,1
+Saturday,Round of 32,Southeast,8,1,1
+Saturday,Round of 32,Southwest,12,13,1
+Saturday,Round of 32,West,2,7,1
+Saturday,Round of 32,West,3,6,1
+Sunday,Round of 32,East,1,8,1
+Sunday,Round of 32,East,2,7,1
+Sunday,Round of 32,East,11,3,1
+Sunday,Round of 32,Southwest,1,9,1
+Sunday,Round of 32,Southwest,10,2,1
+Sunday,Round of 32,Southwest,11,3,1
+Sunday,Round of 32,West,1,8,1
+Sunday,Round of 32,West,5,4,1
+Thursday,Sweet Sixteen,Southeast,2,3,1
+Thursday,Sweet Sixteen,Southeast,8,4,1
+Thursday,Sweet Sixteen,West,3,2,1
+Thursday,Sweet Sixteen,West,5,1,1
+Friday,Sweet Sixteen,East,2,11,1
+Friday,Sweet Sixteen,East,4,1,1
+Friday,Sweet Sixteen,Southwest,1,12,1
+Friday,Sweet Sixteen,Southwest,11,10,1
+Saturday,Elite Eight,Southeast,8,2,1
+Saturday,Elite Eight,West,3,5,1
+Sunday,Elite Eight,East,4,2,1
+Sunday,Elite Eight,Southwest,11,1,1
+Saturday,National Semifinals,National Semifinals,3,4,1
+Saturday,National Semifinals,National Semifinals,8,11,1
+Monday,National Championship,National Championship,3,8,1
+Tuesday,Opening Round,South,16,16,1
+Tuesday,Opening Round,West,14,14,1
+Wednesday,Opening Round,Midwest,12,12,1
+Wednesday,Opening Round,Midwest,16,16,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,2,15,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,5,12,1
+Thursday,Round of 64,East,7,10,1
+Thursday,Round of 64,East,8,9,1
+Thursday,Round of 64,South,1,16,1
+Thursday,Round of 64,South,3,14,1
+Thursday,Round of 64,South,4,13,1
+Thursday,Round of 64,South,8,9,1
+Thursday,Round of 64,South,11,6,1
+Thursday,Round of 64,South,12,5,1
+Thursday,Round of 64,West,3,14,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,5,12,1
+Thursday,Round of 64,West,6,11,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,Midwest,1,16,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,3,14,1
+Friday,Round of 64,Midwest,8,9,1
+Friday,Round of 64,Midwest,10,7,1
+Friday,Round of 64,Midwest,11,6,1
+Friday,Round of 64,Midwest,12,5,1
+Friday,Round of 64,Midwest,13,4,1
+Friday,Round of 64,South,10,7,1
+Friday,Round of 64,South,15,2,1
+Friday,Round of 64,West,1,16,1
+Friday,Round of 64,West,7,10,1
+Friday,Round of 64,West,9,8,1
+Friday,Round of 64,West,15,2,1
+Saturday,Round of 32,East,1,8,1
+Saturday,Round of 32,East,2,7,1
+Saturday,Round of 32,East,4,5,1
+Saturday,Round of 32,South,1,8,1
+Saturday,Round of 32,South,3,11,1
+Saturday,Round of 32,South,4,12,1
+Saturday,Round of 32,West,3,6,1
+Saturday,Round of 32,West,4,5,1
+Sunday,Round of 32,East,6,3,1
+Sunday,Round of 32,Midwest,1,8,1
+Sunday,Round of 32,Midwest,2,10,1
+Sunday,Round of 32,Midwest,11,3,1
+Sunday,Round of 32,Midwest,13,12,1
+Sunday,Round of 32,South,10,15,1
+Sunday,Round of 32,West,1,9,1
+Sunday,Round of 32,West,7,15,1
+Thursday,Sweet Sixteen,East,1,4,1
+Thursday,Sweet Sixteen,East,2,6,1
+Thursday,Sweet Sixteen,West,4,1,1
+Thursday,Sweet Sixteen,West,7,3,1
+Friday,Sweet Sixteen,Midwest,1,13,1
+Friday,Sweet Sixteen,Midwest,2,11,1
+Friday,Sweet Sixteen,South,1,4,1
+Friday,Sweet Sixteen,South,3,10,1
+Saturday,Elite Eight,East,2,1,1
+Saturday,Elite Eight,West,4,7,1
+Sunday,Elite Eight,Midwest,2,1,1
+Sunday,Elite Eight,South,1,3,1
+Saturday,National Semifinals,National Semifinals,1,4,1
+Saturday,National Semifinals,National Semifinals,2,2,1
+Monday,National Championship,National Championship,1,2,1
+Tuesday,Opening Round,Midwest,11,11,1
+Tuesday,Opening Round,Midwest,16,16,1
+Wednesday,Opening Round,East,16,16,1
+Wednesday,Opening Round,West,13,13,1
+Thursday,Round of 64,East,3,14,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,6,11,1
+Thursday,Round of 64,East,12,5,1
+Thursday,Round of 64,Midwest,1,16,1
+Thursday,Round of 64,Midwest,3,14,1
+Thursday,Round of 64,Midwest,4,13,1
+Thursday,Round of 64,Midwest,6,11,1
+Thursday,Round of 64,Midwest,8,9,1
+Thursday,Round of 64,Midwest,12,5,1
+Thursday,Round of 64,South,4,13,1
+Thursday,Round of 64,South,5,12,1
+Thursday,Round of 64,West,1,16,1
+Thursday,Round of 64,West,6,11,1
+Thursday,Round of 64,West,9,8,1
+Thursday,Round of 64,West,14,3,1
+Friday,Round of 64,East,1,16,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,7,10,1
+Friday,Round of 64,East,9,8,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,7,10,1
+Friday,Round of 64,South,1,16,1
+Friday,Round of 64,South,3,14,1
+Friday,Round of 64,South,7,10,1
+Friday,Round of 64,South,8,9,1
+Friday,Round of 64,South,11,6,1
+Friday,Round of 64,South,15,2,1
+Friday,Round of 64,West,2,15,1
+Friday,Round of 64,West,10,7,1
+Friday,Round of 64,West,12,5,1
+Friday,Round of 64,West,13,4,1
+Saturday,Round of 32,East,3,6,1
+Saturday,Round of 32,East,4,12,1
+Saturday,Round of 32,Midwest,1,8,1
+Saturday,Round of 32,Midwest,3,6,1
+Saturday,Round of 32,Midwest,12,4,1
+Saturday,Round of 32,South,4,5,1
+Saturday,Round of 32,West,6,14,1
+Saturday,Round of 32,West,9,1,1
+Sunday,Round of 32,East,1,9,1
+Sunday,Round of 32,East,2,7,1
+Sunday,Round of 32,Midwest,2,7,1
+Sunday,Round of 32,South,1,8,1
+Sunday,Round of 32,South,3,11,1
+Sunday,Round of 32,South,15,7,1
+Sunday,Round of 32,West,2,10,1
+Sunday,Round of 32,West,13,12,1
+Thursday,Sweet Sixteen,East,3,2,1
+Thursday,Sweet Sixteen,East,4,1,1
+Thursday,Sweet Sixteen,West,2,6,1
+Thursday,Sweet Sixteen,West,9,13,1
+Friday,Sweet Sixteen,Midwest,1,12,1
+Friday,Sweet Sixteen,Midwest,2,3,1
+Friday,Sweet Sixteen,South,3,15,1
+Friday,Sweet Sixteen,South,4,1,1
+Saturday,Elite Eight,East,4,3,1
+Saturday,Elite Eight,West,9,2,1
+Sunday,Elite Eight,Midwest,1,2,1
+Sunday,Elite Eight,South,4,3,1
+Saturday,National Semifinals,NA,1,9,1
+Saturday,National Semifinals,NA,4,4,1
+Monday,National Championship,NA,1,4,1
+Tuesday,Opening Round,Midwest,12,12,1
+Tuesday,Opening Round,South,16,16,1
+Wednesday,Opening Round,Midwest,11,11,1
+Wednesday,Opening Round,Midwest,16,16,1
+Thursday,Round of 64,East,2,15,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,7,10,1
+Thursday,Round of 64,East,12,5,1
+Thursday,Round of 64,Midwest,2,15,1
+Thursday,Round of 64,Midwest,4,13,1
+Thursday,Round of 64,Midwest,5,12,1
+Thursday,Round of 64,Midwest,7,10,1
+Thursday,Round of 64,South,1,16,1
+Thursday,Round of 64,South,3,14,1
+Thursday,Round of 64,South,9,8,1
+Thursday,Round of 64,South,11,6,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,7,10,1
+Thursday,Round of 64,West,12,5,1
+Friday,Round of 64,East,1,16,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,East,8,9,1
+Friday,Round of 64,Midwest,1,16,1
+Friday,Round of 64,Midwest,8,9,1
+Friday,Round of 64,Midwest,11,6,1
+Friday,Round of 64,Midwest,14,3,1
+Friday,Round of 64,South,2,15,1
+Friday,Round of 64,South,4,13,1
+Friday,Round of 64,South,10,7,1
+Friday,Round of 64,South,12,5,1
+Friday,Round of 64,West,1,16,1
+Friday,Round of 64,West,3,14,1
+Friday,Round of 64,West,6,11,1
+Friday,Round of 64,West,8,9,1
+Saturday,Round of 32,East,4,12,1
+Saturday,Round of 32,East,7,2,1
+Saturday,Round of 32,Midwest,2,7,1
+Saturday,Round of 32,Midwest,4,5,1
+Saturday,Round of 32,South,1,9,1
+Saturday,Round of 32,South,11,3,1
+Saturday,Round of 32,West,2,7,1
+Saturday,Round of 32,West,4,12,1
+Sunday,Round of 32,East,1,8,1
+Sunday,Round of 32,East,3,6,1
+Sunday,Round of 32,Midwest,8,1,1
+Sunday,Round of 32,Midwest,11,14,1
+Sunday,Round of 32,South,4,12,1
+Sunday,Round of 32,South,10,2,1
+Sunday,Round of 32,West,1,8,1
+Sunday,Round of 32,West,6,3,1
+Thursday,Sweet Sixteen,South,1,4,1
+Thursday,Sweet Sixteen,South,11,10,1
+Thursday,Sweet Sixteen,West,1,4,1
+Thursday,Sweet Sixteen,West,2,6,1
+Friday,Sweet Sixteen,East,4,1,1
+Friday,Sweet Sixteen,East,7,3,1
+Friday,Sweet Sixteen,Midwest,2,11,1
+Friday,Sweet Sixteen,Midwest,8,4,1
+Saturday,Elite Eight,South,1,11,1
+Saturday,Elite Eight,West,2,1,1
+Sunday,Elite Eight,East,7,4,1
+Sunday,Elite Eight,Midwest,8,2,1
+Saturday,National Semifinals,NA,7,1,1
+Saturday,National Semifinals,NA,8,2,1
+Monday,National Championship,NA,7,8,1
+Tuesday,Opening Round,Midwest,16,16,1
+Tuesday,Opening Round,West,11,11,1
+Wednesday,Opening Round,East,11,11,1
+Wednesday,Opening Round,South,16,16,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,8,9,1
+Thursday,Round of 64,Midwest,1,16,1
+Thursday,Round of 64,Midwest,3,14,1
+Thursday,Round of 64,Midwest,6,11,1
+Thursday,Round of 64,Midwest,8,9,1
+Thursday,Round of 64,South,4,13,1
+Thursday,Round of 64,South,5,12,1
+Thursday,Round of 64,South,11,6,1
+Thursday,Round of 64,South,14,3,1
+Thursday,Round of 64,West,2,15,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,5,12,1
+Thursday,Round of 64,West,6,11,1
+Thursday,Round of 64,West,10,7,1
+Thursday,Round of 64,West,14,3,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,3,14,1
+Friday,Round of 64,East,4,13,1
+Friday,Round of 64,East,5,12,1
+Friday,Round of 64,East,7,10,1
+Friday,Round of 64,East,11,6,1
+Friday,Round of 64,Midwest,2,15,1
+Friday,Round of 64,Midwest,4,13,1
+Friday,Round of 64,Midwest,5,12,1
+Friday,Round of 64,Midwest,7,10,1
+Friday,Round of 64,South,1,16,1
+Friday,Round of 64,South,2,15,1
+Friday,Round of 64,South,7,10,1
+Friday,Round of 64,South,8,9,1
+Friday,Round of 64,West,1,16,1
+Friday,Round of 64,West,8,9,1
+Saturday,Round of 32,East,8,1,1
+Saturday,Round of 32,Midwest,1,8,1
+Saturday,Round of 32,Midwest,3,6,1
+Saturday,Round of 32,South,5,4,1
+Saturday,Round of 32,South,11,14,1
+Saturday,Round of 32,West,2,10,1
+Saturday,Round of 32,West,4,5,1
+Saturday,Round of 32,West,6,14,1
+Sunday,Round of 32,East,3,11,1
+Sunday,Round of 32,East,4,5,1
+Sunday,Round of 32,East,7,2,1
+Sunday,Round of 32,Midwest,5,4,1
+Sunday,Round of 32,Midwest,7,2,1
+Sunday,Round of 32,South,1,8,1
+Sunday,Round of 32,South,2,7,1
+Sunday,Round of 32,West,1,8,1
+Thursday,Sweet Sixteen,Midwest,1,5,1
+Thursday,Sweet Sixteen,Midwest,3,7,1
+Thursday,Sweet Sixteen,West,1,4,1
+Thursday,Sweet Sixteen,West,2,6,1
+Friday,Sweet Sixteen,East,4,8,1
+Friday,Sweet Sixteen,East,7,3,1
+Friday,Sweet Sixteen,South,1,5,1
+Friday,Sweet Sixteen,South,2,11,1
+Saturday,Elite Eight,Midwest,1,3,1
+Saturday,Elite Eight,West,1,2,1
+Sunday,Elite Eight,East,7,4,1
+Sunday,Elite Eight,South,1,2,1
+Saturday,National Semifinals,NA,1,7,1
+Saturday,National Semifinals,NA,1,1,1
+Monday,National Championship,NA,1,1,1
+Tuesday,Opening Round,East,16,16,1
+Tuesday,Opening Round,South,11,11,1
+Wednesday,Opening Round,East,11,11,1
+Wednesday,Opening Round,West,16,16,1
+Thursday,Round of 64,East,1,16,1
+Thursday,Round of 64,East,4,13,1
+Thursday,Round of 64,East,5,12,1
+Thursday,Round of 64,East,9,8,1
+Thursday,Round of 64,Midwest,1,16,1
+Thursday,Round of 64,Midwest,3,14,1
+Thursday,Round of 64,Midwest,4,13,1
+Thursday,Round of 64,Midwest,9,8,1
+Thursday,Round of 64,Midwest,11,6,1
+Thursday,Round of 64,Midwest,12,5,1
+Thursday,Round of 64,South,1,16,1
+Thursday,Round of 64,South,3,14,1
+Thursday,Round of 64,South,9,8,1
+Thursday,Round of 64,South,11,6,1
+Thursday,Round of 64,West,4,13,1
+Thursday,Round of 64,West,12,5,1
+Friday,Round of 64,East,2,15,1
+Friday,Round of 64,East,6,11,1
+Friday,Round of 64,East,7,10,1
+Friday,Round of 64,East,14,3,1
+Friday,Round of 64,Midwest,10,7,1
+Friday,Round of 64,Midwest,15,2,1
+Friday,Round of 64,South,2,15,1
+Friday,Round of 64,South,5,12,1
+Friday,Round of 64,South,7,10,1
+Friday,Round of 64,South,13,4,1
+Friday,Round of 64,West,1,16,1
+Friday,Round of 64,West,2,15,1
+Friday,Round of 64,West,3,14,1
+Friday,Round of 64,West,8,9,1
+Friday,Round of 64,West,10,7,1
+Friday,Round of 64,West,11,6,1
+Saturday,Round of 32,East,1,9,1
+Saturday,Round of 32,East,5,4,1
+Saturday,Round of 32,Midwest,1,9,1
+Saturday,Round of 32,Midwest,4,12,1
+Saturday,Round of 32,Midwest,11,3,1
+Saturday,Round of 32,South,1,9,1
+Saturday,Round of 32,South,3,11,1
+Saturday,Round of 32,West,4,12,1
+Sunday,Round of 32,East,6,14,1
+Sunday,Round of 32,East,7,2,1
+Sunday,Round of 32,Midwest,10,15,1
+Sunday,Round of 32,South,2,7,1
+Sunday,Round of 32,South,5,13,1
+Sunday,Round of 32,West,1,8,1
+Sunday,Round of 32,West,2,10,1
+Sunday,Round of 32,West,3,11,1
+Thursday,Sweet Sixteen,South,1,5,1
+Thursday,Sweet Sixteen,South,2,3,1
+Thursday,Sweet Sixteen,West,1,4,1
+Thursday,Sweet Sixteen,West,2,3,1
+Friday,Sweet Sixteen,East,1,5,1
+Friday,Sweet Sixteen,East,6,7,1
+Friday,Sweet Sixteen,Midwest,1,4,1
+Friday,Sweet Sixteen,Midwest,10,11,1
+Saturday,Elite Eight,South,2,1,1
+Saturday,Elite Eight,West,2,1,1
+Sunday,Elite Eight,East,1,6,1
+Sunday,Elite Eight,Midwest,10,1,1
+Saturday,National Semifinals,NA,1,10,1
+Saturday,National Semifinals,NA,2,2,1
+Monday,National Championship,NA,2,1,1
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,12,5,0
+Thursday,Round of 64,East,9,8,0
+Thursday,Round of 64,Midwest,16,1,0
+Thursday,Round of 64,Midwest,13,4,0
+Thursday,Round of 64,Midwest,12,5,0
+Thursday,Round of 64,Midwest,8,9,0
+Thursday,Round of 64,Southeast,15,2,0
+Thursday,Round of 64,Southeast,14,3,0
+Thursday,Round of 64,Southeast,10,7,0
+Thursday,Round of 64,Southeast,6,11,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,8,9,0
+Thursday,Round of 64,West,5,12,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,East,10,7,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,14,3,0
+Friday,Round of 64,Midwest,10,7,0
+Friday,Round of 64,Midwest,6,11,0
+Friday,Round of 64,Southeast,16,1,0
+Friday,Round of 64,Southeast,12,5,0
+Friday,Round of 64,Southeast,9,8,0
+Friday,Round of 64,Southeast,4,13,0
+Friday,Round of 64,West,15,2,0
+Friday,Round of 64,West,14,3,0
+Friday,Round of 64,West,10,7,0
+Friday,Round of 64,West,6,11,0
+Saturday,Round of 32,East,8,1,0
+Saturday,Round of 32,East,5,4,0
+Saturday,Round of 32,Midwest,9,1,0
+Saturday,Round of 32,Midwest,4,5,0
+Saturday,Round of 32,Southeast,7,2,0
+Saturday,Round of 32,Southeast,3,11,0
+Saturday,Round of 32,West,9,1,0
+Saturday,Round of 32,West,4,12,0
+Sunday,Round of 32,East,7,2,0
+Sunday,Round of 32,East,6,3,0
+Sunday,Round of 32,Midwest,7,2,0
+Sunday,Round of 32,Midwest,3,11,0
+Sunday,Round of 32,Southeast,13,5,0
+Sunday,Round of 32,Southeast,1,8,0
+Sunday,Round of 32,West,11,3,0
+Sunday,Round of 32,West,2,7,0
+Thursday,Sweet Sixteen,East,4,1,0
+Thursday,Sweet Sixteen,East,3,2,0
+Thursday,Sweet Sixteen,Midwest,5,1,0
+Thursday,Sweet Sixteen,Midwest,11,2,0
+Friday,Sweet Sixteen,Southeast,11,2,0
+Friday,Sweet Sixteen,Southeast,5,8,0
+Friday,Sweet Sixteen,West,12,1,0
+Friday,Sweet Sixteen,West,7,3,0
+Saturday,Elite Eight,East,2,1,0
+Saturday,Elite Eight,Midwest,1,2,0
+Sunday,Elite Eight,Southeast,2,8,0
+Sunday,Elite Eight,West,3,1,0
+Saturday,National Semifinals,National Semifinals,1,1,0
+Saturday,National Semifinals,National Semifinals,2,8,0
+Monday,National Championship,National Championship,1,8,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,9,8,0
+Thursday,Round of 64,East,5,12,0
+Thursday,Round of 64,Midwest,16,1,0
+Thursday,Round of 64,Midwest,13,4,0
+Thursday,Round of 64,Midwest,12,5,0
+Thursday,Round of 64,Midwest,8,9,0
+Thursday,Round of 64,Southeast,15,2,0
+Thursday,Round of 64,Southeast,14,3,0
+Thursday,Round of 64,Southeast,7,10,0
+Thursday,Round of 64,Southeast,6,11,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,11,6,0
+Thursday,Round of 64,West,10,7,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,East,10,7,0
+Friday,Round of 64,East,3,14,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,11,6,0
+Friday,Round of 64,Midwest,10,7,0
+Friday,Round of 64,Midwest,3,14,0
+Friday,Round of 64,Southeast,16,1,0
+Friday,Round of 64,Southeast,13,4,0
+Friday,Round of 64,Southeast,12,5,0
+Friday,Round of 64,Southeast,9,8,0
+Friday,Round of 64,West,16,1,0
+Friday,Round of 64,West,13,4,0
+Friday,Round of 64,West,12,5,0
+Friday,Round of 64,West,9,8,0
+Saturday,Round of 32,East,8,1,0
+Saturday,Round of 32,East,4,12,0
+Saturday,Round of 32,Midwest,9,1,0
+Saturday,Round of 32,Midwest,4,5,0
+Saturday,Round of 32,Southeast,10,2,0
+Saturday,Round of 32,Southeast,3,11,0
+Saturday,Round of 32,West,7,2,0
+Saturday,Round of 32,West,6,3,0
+Sunday,Round of 32,East,2,7,0
+Sunday,Round of 32,East,6,14,0
+Sunday,Round of 32,Midwest,14,6,0
+Sunday,Round of 32,Midwest,2,7,0
+Sunday,Round of 32,Southeast,8,1,0
+Sunday,Round of 32,Southeast,4,5,0
+Sunday,Round of 32,West,5,4,0
+Sunday,Round of 32,West,1,8,0
+Thursday,Sweet Sixteen,Southeast,5,1,0
+Thursday,Sweet Sixteen,Southeast,2,11,0
+Thursday,Sweet Sixteen,West,3,2,0
+Thursday,Sweet Sixteen,West,4,8,0
+Friday,Sweet Sixteen,East,12,1,0
+Friday,Sweet Sixteen,East,14,7,0
+Friday,Sweet Sixteen,Midwest,5,1,0
+Friday,Sweet Sixteen,Midwest,7,6,0
+Saturday,Elite Eight,Southeast,1,11,0
+Saturday,Elite Eight,West,8,2,0
+Sunday,Elite Eight,East,7,1,0
+Sunday,Elite Eight,Midwest,6,1,0
+Saturday,National Semifinals,National Semifinals,1,1,0
+Saturday,National Semifinals,National Semifinals,11,2,0
+Monday,National Championship,National Championship,1,2,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,12,5,0
+Thursday,Round of 64,East,8,9,0
+Thursday,Round of 64,Midwest,16,1,0
+Thursday,Round of 64,Midwest,12,5,0
+Thursday,Round of 64,Midwest,9,8,0
+Thursday,Round of 64,Midwest,4,13,0
+Thursday,Round of 64,Southeast,15,2,0
+Thursday,Round of 64,Southeast,11,6,0
+Thursday,Round of 64,Southeast,10,7,0
+Thursday,Round of 64,Southeast,3,14,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,8,9,0
+Thursday,Round of 64,West,5,12,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,East,7,10,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,14,3,0
+Friday,Round of 64,Midwest,11,6,0
+Friday,Round of 64,Midwest,7,10,0
+Friday,Round of 64,Southeast,16,1,0
+Friday,Round of 64,Southeast,12,5,0
+Friday,Round of 64,Southeast,8,9,0
+Friday,Round of 64,Southeast,4,13,0
+Friday,Round of 64,West,15,2,0
+Friday,Round of 64,West,14,3,0
+Friday,Round of 64,West,11,6,0
+Friday,Round of 64,West,10,7,0
+Saturday,Round of 32,East,9,1,0
+Saturday,Round of 32,East,4,5,0
+Saturday,Round of 32,Midwest,8,1,0
+Saturday,Round of 32,Midwest,13,5,0
+Saturday,Round of 32,Southeast,7,2,0
+Saturday,Round of 32,Southeast,14,6,0
+Saturday,Round of 32,West,9,1,0
+Saturday,Round of 32,West,4,12,0
+Sunday,Round of 32,East,10,2,0
+Sunday,Round of 32,East,3,6,0
+Sunday,Round of 32,Midwest,6,3,0
+Sunday,Round of 32,Midwest,2,10,0
+Sunday,Round of 32,Southeast,9,1,0
+Sunday,Round of 32,Southeast,13,5,0
+Sunday,Round of 32,West,7,2,0
+Sunday,Round of 32,West,3,6,0
+Thursday,Sweet Sixteen,East,5,1,0
+Thursday,Sweet Sixteen,East,6,2,0
+Thursday,Sweet Sixteen,Southeast,5,1,0
+Thursday,Sweet Sixteen,Southeast,2,6,0
+Friday,Sweet Sixteen,Midwest,5,1,0
+Friday,Sweet Sixteen,Midwest,3,10,0
+Friday,Sweet Sixteen,West,12,1,0
+Friday,Sweet Sixteen,West,6,2,0
+Saturday,Elite Eight,East,1,2,0
+Saturday,Elite Eight,Southeast,1,6,0
+Sunday,Elite Eight,Midwest,10,1,0
+Sunday,Elite Eight,West,2,1,0
+Saturday,National Semifinals,National Semifinals,1,1,0
+Saturday,National Semifinals,National Semifinals,6,2,0
+Monday,National Championship,National Championship,2,1,0
+Thursday,Round of 64,East,15,2,0
+Thursday,Round of 64,East,14,3,0
+Thursday,Round of 64,East,10,7,0
+Thursday,Round of 64,East,6,11,0
+Thursday,Round of 64,Midwest,16,1,0
+Thursday,Round of 64,Midwest,13,4,0
+Thursday,Round of 64,Midwest,12,5,0
+Thursday,Round of 64,Midwest,8,9,0
+Thursday,Round of 64,Southeast,16,1,0
+Thursday,Round of 64,Southeast,13,4,0
+Thursday,Round of 64,Southeast,12,5,0
+Thursday,Round of 64,Southeast,9,8,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,11,6,0
+Thursday,Round of 64,West,7,10,0
+Friday,Round of 64,East,16,1,0
+Friday,Round of 64,East,12,5,0
+Friday,Round of 64,East,9,8,0
+Friday,Round of 64,East,4,13,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,11,6,0
+Friday,Round of 64,Midwest,10,7,0
+Friday,Round of 64,Midwest,3,14,0
+Friday,Round of 64,Southeast,15,2,0
+Friday,Round of 64,Southeast,14,3,0
+Friday,Round of 64,Southeast,11,6,0
+Friday,Round of 64,Southeast,10,7,0
+Friday,Round of 64,West,16,1,0
+Friday,Round of 64,West,13,4,0
+Friday,Round of 64,West,12,5,0
+Friday,Round of 64,West,9,8,0
+Saturday,Round of 32,East,7,2,0
+Saturday,Round of 32,East,3,11,0
+Saturday,Round of 32,Midwest,9,1,0
+Saturday,Round of 32,Midwest,5,4,0
+Saturday,Round of 32,Southeast,8,1,0
+Saturday,Round of 32,Southeast,4,5,0
+Saturday,Round of 32,West,10,2,0
+Saturday,Round of 32,West,6,3,0
+Sunday,Round of 32,East,8,1,0
+Sunday,Round of 32,East,5,13,0
+Sunday,Round of 32,Midwest,14,6,0
+Sunday,Round of 32,Midwest,2,7,0
+Sunday,Round of 32,Southeast,7,2,0
+Sunday,Round of 32,Southeast,3,6,0
+Sunday,Round of 32,West,8,1,0
+Sunday,Round of 32,West,4,5,0
+Thursday,Sweet Sixteen,East,13,1,0
+Thursday,Sweet Sixteen,East,11,2,0
+Thursday,Sweet Sixteen,Southeast,5,1,0
+Thursday,Sweet Sixteen,Southeast,2,6,0
+Friday,Sweet Sixteen,Midwest,1,4,0
+Friday,Sweet Sixteen,Midwest,7,6,0
+Friday,Sweet Sixteen,West,5,1,0
+Friday,Sweet Sixteen,West,3,2,0
+Saturday,Elite Eight,East,1,2,0
+Saturday,Elite Eight,Southeast,6,1,0
+Sunday,Elite Eight,Midwest,4,6,0
+Sunday,Elite Eight,West,2,1,0
+Saturday,National Semifinals,National Semifinals,1,1,0
+Saturday,National Semifinals,National Semifinals,2,6,0
+Monday,National Championship,National Championship,1,6,0
+Thursday,Round of 64,East,15,2,0
+Thursday,Round of 64,East,10,7,0
+Thursday,Round of 64,East,6,11,0
+Thursday,Round of 64,East,3,14,0
+Thursday,Round of 64,Midwest,16,1,0
+Thursday,Round of 64,Midwest,13,4,0
+Thursday,Round of 64,Midwest,12,5,0
+Thursday,Round of 64,Midwest,8,9,0
+Thursday,Round of 64,Southeast,16,1,0
+Thursday,Round of 64,Southeast,12,5,0
+Thursday,Round of 64,Southeast,8,9,0
+Thursday,Round of 64,Southeast,4,13,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,8,9,0
+Thursday,Round of 64,West,5,12,0
+Friday,Round of 64,East,16,1,0
+Friday,Round of 64,East,13,4,0
+Friday,Round of 64,East,12,5,0
+Friday,Round of 64,East,8,9,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,14,3,0
+Friday,Round of 64,Midwest,7,10,0
+Friday,Round of 64,Midwest,6,11,0
+Friday,Round of 64,Southeast,15,2,0
+Friday,Round of 64,Southeast,14,3,0
+Friday,Round of 64,Southeast,10,7,0
+Friday,Round of 64,Southeast,6,11,0
+Friday,Round of 64,West,15,2,0
+Friday,Round of 64,West,14,3,0
+Friday,Round of 64,West,10,7,0
+Friday,Round of 64,West,6,11,0
+Saturday,Round of 32,East,7,2,0
+Saturday,Round of 32,East,14,11,0
+Saturday,Round of 32,Midwest,9,1,0
+Saturday,Round of 32,Midwest,5,4,0
+Saturday,Round of 32,Southeast,9,1,0
+Saturday,Round of 32,Southeast,13,5,0
+Saturday,Round of 32,West,9,1,0
+Saturday,Round of 32,West,12,4,0
+Sunday,Round of 32,East,9,1,0
+Sunday,Round of 32,East,4,5,0
+Sunday,Round of 32,Midwest,10,2,0
+Sunday,Round of 32,Midwest,11,3,0
+Sunday,Round of 32,Southeast,7,2,0
+Sunday,Round of 32,Southeast,11,3,0
+Sunday,Round of 32,West,7,2,0
+Sunday,Round of 32,West,11,3,0
+Thursday,Sweet Sixteen,Southeast,2,3,0
+Thursday,Sweet Sixteen,Southeast,1,5,0
+Thursday,Sweet Sixteen,West,2,3,0
+Thursday,Sweet Sixteen,West,1,4,0
+Friday,Sweet Sixteen,East,5,1,0
+Friday,Sweet Sixteen,East,11,2,0
+Friday,Sweet Sixteen,Midwest,4,1,0
+Friday,Sweet Sixteen,Midwest,3,2,0
+Saturday,Elite Eight,Southeast,5,3,0
+Saturday,Elite Eight,West,4,3,0
+Sunday,Elite Eight,East,1,2,0
+Sunday,Elite Eight,Midwest,2,1,0
+Saturday,National Semifinals,National Semifinals,1,3,0
+Saturday,National Semifinals,National Semifinals,2,3,0
+Monday,National Championship,National Championship,3,3,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,12,5,0
+Thursday,Round of 64,East,8,9,0
+Thursday,Round of 64,Midwest,16,1,0
+Thursday,Round of 64,Midwest,13,4,0
+Thursday,Round of 64,Midwest,9,8,0
+Thursday,Round of 64,Midwest,5,12,0
+Thursday,Round of 64,Southeast,16,1,0
+Thursday,Round of 64,Southeast,13,4,0
+Thursday,Round of 64,Southeast,12,5,0
+Thursday,Round of 64,Southeast,8,9,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,9,8,0
+Thursday,Round of 64,West,5,12,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,East,10,7,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,14,3,0
+Friday,Round of 64,Midwest,11,6,0
+Friday,Round of 64,Midwest,7,10,0
+Friday,Round of 64,Southeast,15,2,0
+Friday,Round of 64,Southeast,11,6,0
+Friday,Round of 64,Southeast,10,7,0
+Friday,Round of 64,Southeast,3,14,0
+Friday,Round of 64,West,15,2,0
+Friday,Round of 64,West,14,3,0
+Friday,Round of 64,West,10,7,0
+Friday,Round of 64,West,6,11,0
+Saturday,Round of 32,East,9,1,0
+Saturday,Round of 32,East,4,5,0
+Saturday,Round of 32,Midwest,12,4,0
+Saturday,Round of 32,Midwest,1,8,0
+Saturday,Round of 32,Southeast,9,1,0
+Saturday,Round of 32,Southeast,5,4,0
+Saturday,Round of 32,West,8,1,0
+Saturday,Round of 32,West,4,12,0
+Sunday,Round of 32,East,6,3,0
+Sunday,Round of 32,East,2,7,0
+Sunday,Round of 32,Midwest,3,6,0
+Sunday,Round of 32,Midwest,2,10,0
+Sunday,Round of 32,Southeast,7,2,0
+Sunday,Round of 32,Southeast,14,6,0
+Sunday,Round of 32,West,2,7,0
+Sunday,Round of 32,West,3,11,0
+Thursday,Sweet Sixteen,East,5,1,0
+Thursday,Sweet Sixteen,East,7,3,0
+Thursday,Sweet Sixteen,Midwest,8,4,0
+Thursday,Sweet Sixteen,Midwest,6,10,0
+Friday,Sweet Sixteen,Southeast,1,4,0
+Friday,Sweet Sixteen,Southeast,2,6,0
+Friday,Sweet Sixteen,West,12,1,0
+Friday,Sweet Sixteen,West,7,11,0
+Saturday,Elite Eight,East,1,3,0
+Saturday,Elite Eight,Midwest,10,4,0
+Sunday,Elite Eight,Southeast,6,4,0
+Sunday,Elite Eight,West,11,1,0
+Saturday,National Semifinals,National Semifinals,4,1,0
+Saturday,National Semifinals,National Semifinals,4,3,0
+Monday,National Championship,National Championship,3,1,0
+Thursday,Round of 64,East,14,3,0
+Thursday,Round of 64,East,11,6,0
+Thursday,Round of 64,East,7,10,0
+Thursday,Round of 64,East,2,15,0
+Thursday,Round of 64,Midwest,15,2,0
+Thursday,Round of 64,Midwest,10,7,0
+Thursday,Round of 64,Midwest,6,11,0
+Thursday,Round of 64,Midwest,3,14,0
+Thursday,Round of 64,Southeast,15,2,0
+Thursday,Round of 64,Southeast,14,3,0
+Thursday,Round of 64,Southeast,11,6,0
+Thursday,Round of 64,Southeast,10,7,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,7,10,0
+Thursday,Round of 64,West,6,11,0
+Friday,Round of 64,East,16,1,0
+Friday,Round of 64,East,8,9,0
+Friday,Round of 64,East,5,12,0
+Friday,Round of 64,East,4,13,0
+Friday,Round of 64,Midwest,16,1,0
+Friday,Round of 64,Midwest,13,4,0
+Friday,Round of 64,Midwest,12,5,0
+Friday,Round of 64,Midwest,9,8,0
+Friday,Round of 64,Southeast,16,1,0
+Friday,Round of 64,Southeast,13,4,0
+Friday,Round of 64,Southeast,12,5,0
+Friday,Round of 64,Southeast,9,8,0
+Friday,Round of 64,West,16,1,0
+Friday,Round of 64,West,13,4,0
+Friday,Round of 64,West,12,5,0
+Friday,Round of 64,West,9,8,0
+Saturday,Round of 32,East,6,3,0
+Saturday,Round of 32,East,15,10,0
+Saturday,Round of 32,Midwest,7,2,0
+Saturday,Round of 32,Midwest,14,11,0
+Saturday,Round of 32,Southeast,7,2,0
+Saturday,Round of 32,Southeast,6,3,0
+Saturday,Round of 32,West,10,2,0
+Saturday,Round of 32,West,11,3,0
+Sunday,Round of 32,East,9,1,0
+Sunday,Round of 32,East,13,12,0
+Sunday,Round of 32,Midwest,8,1,0
+Sunday,Round of 32,Midwest,5,4,0
+Sunday,Round of 32,Southeast,8,1,0
+Sunday,Round of 32,Southeast,5,4,0
+Sunday,Round of 32,West,8,1,0
+Sunday,Round of 32,West,5,4,0
+Thursday,Sweet Sixteen,Southeast,4,1,0
+Thursday,Sweet Sixteen,Southeast,2,3,0
+Thursday,Sweet Sixteen,West,4,1,0
+Thursday,Sweet Sixteen,West,2,3,0
+Friday,Sweet Sixteen,East,12,1,0
+Friday,Sweet Sixteen,East,3,10,0
+Friday,Sweet Sixteen,Midwest,11,2,0
+Friday,Sweet Sixteen,Midwest,1,4,0
+Saturday,Elite Eight,Southeast,1,3,0
+Saturday,Elite Eight,West,3,1,0
+Sunday,Elite Eight,East,10,1,0
+Sunday,Elite Eight,Midwest,4,2,0
+Saturday,National Semifinals,National Semifinals,1,2,0
+Saturday,National Semifinals,National Semifinals,1,3,0
+Monday,National Championship,National Championship,3,2,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,12,5,0
+Thursday,Round of 64,East,8,9,0
+Thursday,Round of 64,Midwest,15,2,0
+Thursday,Round of 64,Midwest,14,3,0
+Thursday,Round of 64,Midwest,11,6,0
+Thursday,Round of 64,Midwest,10,7,0
+Thursday,Round of 64,Southeast,16,1,0
+Thursday,Round of 64,Southeast,13,4,0
+Thursday,Round of 64,Southeast,12,5,0
+Thursday,Round of 64,Southeast,8,9,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,11,6,0
+Thursday,Round of 64,West,10,7,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,East,7,10,0
+Friday,Round of 64,Midwest,16,1,0
+Friday,Round of 64,Midwest,13,4,0
+Friday,Round of 64,Midwest,12,5,0
+Friday,Round of 64,Midwest,8,9,0
+Friday,Round of 64,Southeast,15,2,0
+Friday,Round of 64,Southeast,11,6,0
+Friday,Round of 64,Southeast,7,10,0
+Friday,Round of 64,Southeast,3,14,0
+Friday,Round of 64,West,16,1,0
+Friday,Round of 64,West,9,8,0
+Friday,Round of 64,West,5,12,0
+Friday,Round of 64,West,4,13,0
+Saturday,Round of 32,East,9,1,0
+Saturday,Round of 32,East,5,4,0
+Saturday,Round of 32,Midwest,3,6,0
+Saturday,Round of 32,Midwest,2,7,0
+Saturday,Round of 32,Southeast,9,1,0
+Saturday,Round of 32,Southeast,5,4,0
+Saturday,Round of 32,West,7,2,0
+Saturday,Round of 32,West,6,3,0
+Sunday,Round of 32,East,10,2,0
+Sunday,Round of 32,East,6,3,0
+Sunday,Round of 32,Midwest,5,4,0
+Sunday,Round of 32,Midwest,1,9,0
+Sunday,Round of 32,Southeast,10,2,0
+Sunday,Round of 32,Southeast,14,6,0
+Sunday,Round of 32,West,8,1,0
+Sunday,Round of 32,West,13,12,0
+Thursday,Sweet Sixteen,East,4,1,0
+Thursday,Sweet Sixteen,East,3,2,0
+Thursday,Sweet Sixteen,West,12,1,0
+Thursday,Sweet Sixteen,West,3,2,0
+Friday,Sweet Sixteen,Midwest,9,4,0
+Friday,Sweet Sixteen,Midwest,7,6,0
+Friday,Sweet Sixteen,Southeast,4,1,0
+Friday,Sweet Sixteen,Southeast,2,6,0
+Saturday,Elite Eight,East,2,1,0
+Saturday,Elite Eight,West,1,2,0
+Sunday,Elite Eight,Midwest,6,4,0
+Sunday,Elite Eight,Southeast,1,6,0
+Saturday,National Semifinals,National Semifinals,2,1,0
+Saturday,National Semifinals,National Semifinals,4,6,0
+Monday,National Championship,National Championship,6,1,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,12,5,0
+Thursday,Round of 64,East,9,8,0
+Thursday,Round of 64,Midwest,15,2,0
+Thursday,Round of 64,Midwest,14,3,0
+Thursday,Round of 64,Midwest,11,6,0
+Thursday,Round of 64,Midwest,10,7,0
+Thursday,Round of 64,Southeast,15,2,0
+Thursday,Round of 64,Southeast,14,3,0
+Thursday,Round of 64,Southeast,10,7,0
+Thursday,Round of 64,Southeast,6,11,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,11,6,0
+Thursday,Round of 64,West,10,7,0
+Thursday,Round of 64,West,2,15,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,East,10,7,0
+Friday,Round of 64,Midwest,16,1,0
+Friday,Round of 64,Midwest,13,4,0
+Friday,Round of 64,Midwest,12,5,0
+Friday,Round of 64,Midwest,8,9,0
+Friday,Round of 64,Southeast,16,1,0
+Friday,Round of 64,Southeast,13,4,0
+Friday,Round of 64,Southeast,12,5,0
+Friday,Round of 64,Southeast,9,8,0
+Friday,Round of 64,West,16,1,0
+Friday,Round of 64,West,8,9,0
+Friday,Round of 64,West,5,12,0
+Friday,Round of 64,West,4,13,0
+Saturday,Round of 32,East,8,1,0
+Saturday,Round of 32,East,5,4,0
+Saturday,Round of 32,Midwest,7,2,0
+Saturday,Round of 32,Midwest,3,6,0
+Saturday,Round of 32,Southeast,11,3,0
+Saturday,Round of 32,Southeast,2,7,0
+Saturday,Round of 32,West,6,3,0
+Saturday,Round of 32,West,15,7,0
+Sunday,Round of 32,East,7,2,0
+Sunday,Round of 32,East,3,6,0
+Sunday,Round of 32,Midwest,9,1,0
+Sunday,Round of 32,Midwest,5,4,0
+Sunday,Round of 32,Southeast,8,1,0
+Sunday,Round of 32,Southeast,4,5,0
+Sunday,Round of 32,West,9,1,0
+Sunday,Round of 32,West,13,12,0
+Thursday,Sweet Sixteen,Midwest,4,1,0
+Thursday,Sweet Sixteen,Midwest,6,2,0
+Thursday,Sweet Sixteen,Southeast,5,1,0
+Thursday,Sweet Sixteen,Southeast,7,3,0
+Friday,Sweet Sixteen,East,4,1,0
+Friday,Sweet Sixteen,East,6,2,0
+Friday,Sweet Sixteen,West,12,1,0
+Friday,Sweet Sixteen,West,3,7,0
+Saturday,Elite Eight,Midwest,1,2,0
+Saturday,Elite Eight,Southeast,3,1,0
+Sunday,Elite Eight,East,2,1,0
+Sunday,Elite Eight,West,7,1,0
+Saturday,National Semifinals,National Semifinals,2,1,0
+Saturday,National Semifinals,National Semifinals,1,1,0
+Monday,National Championship,National Championship,1,1,0
+Thursday,Round of 64,East,15,2,0
+Thursday,Round of 64,East,14,3,0
+Thursday,Round of 64,East,7,10,0
+Thursday,Round of 64,East,6,11,0
+Thursday,Round of 64,Midwest,15,2,0
+Thursday,Round of 64,Midwest,14,3,0
+Thursday,Round of 64,Midwest,11,6,0
+Thursday,Round of 64,Midwest,7,10,0
+Thursday,Round of 64,Southeast,16,1,0
+Thursday,Round of 64,Southeast,13,4,0
+Thursday,Round of 64,Southeast,12,5,0
+Thursday,Round of 64,Southeast,8,9,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,8,9,0
+Thursday,Round of 64,West,5,12,0
+Friday,Round of 64,East,16,1,0
+Friday,Round of 64,East,13,4,0
+Friday,Round of 64,East,12,5,0
+Friday,Round of 64,East,8,9,0
+Friday,Round of 64,Midwest,16,1,0
+Friday,Round of 64,Midwest,13,4,0
+Friday,Round of 64,Midwest,8,9,0
+Friday,Round of 64,Midwest,5,12,0
+Friday,Round of 64,Southeast,15,2,0
+Friday,Round of 64,Southeast,14,3,0
+Friday,Round of 64,Southeast,11,6,0
+Friday,Round of 64,Southeast,10,7,0
+Friday,Round of 64,West,15,2,0
+Friday,Round of 64,West,14,3,0
+Friday,Round of 64,West,11,6,0
+Friday,Round of 64,West,10,7,0
+Saturday,Round of 32,East,10,2,0
+Saturday,Round of 32,East,11,3,0
+Saturday,Round of 32,Midwest,6,3,0
+Saturday,Round of 32,Midwest,2,10,0
+Saturday,Round of 32,Southeast,9,1,0
+Saturday,Round of 32,Southeast,5,4,0
+Saturday,Round of 32,West,9,1,0
+Saturday,Round of 32,West,12,4,0
+Sunday,Round of 32,East,4,5,0
+Sunday,Round of 32,East,1,9,0
+Sunday,Round of 32,Midwest,9,1,0
+Sunday,Round of 32,Midwest,4,12,0
+Sunday,Round of 32,Southeast,7,2,0
+Sunday,Round of 32,Southeast,3,6,0
+Sunday,Round of 32,West,7,2,0
+Sunday,Round of 32,West,6,3,0
+Thursday,Sweet Sixteen,Southeast,4,1,0
+Thursday,Sweet Sixteen,Southeast,6,2,0
+Thursday,Sweet Sixteen,West,4,1,0
+Thursday,Sweet Sixteen,West,3,2,0
+Friday,Sweet Sixteen,East,2,3,0
+Friday,Sweet Sixteen,East,5,9,0
+Friday,Sweet Sixteen,Midwest,12,1,0
+Friday,Sweet Sixteen,Midwest,10,3,0
+Saturday,Elite Eight,Southeast,1,2,0
+Saturday,Elite Eight,West,1,2,0
+Sunday,Elite Eight,East,9,3,0
+Sunday,Elite Eight,Midwest,3,1,0
+Saturday,National Semifinals,National Semifinals,2,1,0
+Saturday,National Semifinals,National Semifinals,3,2,0
+Monday,National Championship,National Championship,2,1,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,12,5,0
+Thursday,Round of 64,East,8,9,0
+Thursday,Round of 64,Midwest,16,1,0
+Thursday,Round of 64,Midwest,13,4,0
+Thursday,Round of 64,Midwest,9,8,0
+Thursday,Round of 64,Midwest,5,12,0
+Thursday,Round of 64,Southeast,16,1,0
+Thursday,Round of 64,Southeast,12,5,0
+Thursday,Round of 64,Southeast,8,9,0
+Thursday,Round of 64,Southeast,4,13,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,10,7,0
+Thursday,Round of 64,West,6,11,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,East,7,10,0
+Friday,Round of 64,East,3,14,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,14,3,0
+Friday,Round of 64,Midwest,11,6,0
+Friday,Round of 64,Midwest,10,7,0
+Friday,Round of 64,Southeast,15,2,0
+Friday,Round of 64,Southeast,11,6,0
+Friday,Round of 64,Southeast,10,7,0
+Friday,Round of 64,Southeast,3,14,0
+Friday,Round of 64,West,16,1,0
+Friday,Round of 64,West,13,4,0
+Friday,Round of 64,West,12,5,0
+Friday,Round of 64,West,9,8,0
+Saturday,Round of 32,East,9,1,0
+Saturday,Round of 32,East,5,4,0
+Saturday,Round of 32,Midwest,8,1,0
+Saturday,Round of 32,Midwest,12,4,0
+Saturday,Round of 32,Southeast,9,1,0
+Saturday,Round of 32,Southeast,13,5,0
+Saturday,Round of 32,West,7,2,0
+Saturday,Round of 32,West,11,3,0
+Sunday,Round of 32,East,10,2,0
+Sunday,Round of 32,East,14,6,0
+Sunday,Round of 32,Midwest,7,2,0
+Sunday,Round of 32,Midwest,3,6,0
+Sunday,Round of 32,Southeast,7,2,0
+Sunday,Round of 32,Southeast,14,6,0
+Sunday,Round of 32,West,8,1,0
+Sunday,Round of 32,West,4,5,0
+Thursday,Sweet Sixteen,Southeast,5,1,0
+Thursday,Sweet Sixteen,Southeast,6,2,0
+Thursday,Sweet Sixteen,West,5,1,0
+Thursday,Sweet Sixteen,West,3,2,0
+Friday,Sweet Sixteen,East,6,2,0
+Friday,Sweet Sixteen,East,1,4,0
+Friday,Sweet Sixteen,Midwest,6,2,0
+Friday,Sweet Sixteen,Midwest,1,4,0
+Saturday,Elite Eight,Southeast,1,2,0
+Saturday,Elite Eight,West,2,1,0
+Sunday,Elite Eight,East,2,4,0
+Sunday,Elite Eight,Midwest,4,2,0
+Saturday,National Semifinals,National Semifinals,4,1,0
+Saturday,National Semifinals,National Semifinals,2,2,0
+Monday,National Championship,National Championship,2,1,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,8,9,0
+Thursday,Round of 64,East,5,12,0
+Thursday,Round of 64,Midwest,16,1,0
+Thursday,Round of 64,Midwest,13,4,0
+Thursday,Round of 64,Midwest,12,5,0
+Thursday,Round of 64,Midwest,8,9,0
+Thursday,Round of 64,Southeast,16,1,0
+Thursday,Round of 64,Southeast,12,5,0
+Thursday,Round of 64,Southeast,8,9,0
+Thursday,Round of 64,Southeast,4,13,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,9,8,0
+Thursday,Round of 64,West,5,12,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,East,10,7,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,14,3,0
+Friday,Round of 64,Midwest,11,6,0
+Friday,Round of 64,Midwest,7,10,0
+Friday,Round of 64,Southeast,15,2,0
+Friday,Round of 64,Southeast,14,3,0
+Friday,Round of 64,Southeast,10,7,0
+Friday,Round of 64,Southeast,6,11,0
+Friday,Round of 64,West,15,2,0
+Friday,Round of 64,West,14,3,0
+Friday,Round of 64,West,11,6,0
+Friday,Round of 64,West,7,10,0
+Saturday,Round of 32,East,9,1,0
+Saturday,Round of 32,East,4,12,0
+Saturday,Round of 32,Midwest,9,1,0
+Saturday,Round of 32,Midwest,5,4,0
+Saturday,Round of 32,Southeast,9,1,0
+Saturday,Round of 32,Southeast,13,5,0
+Saturday,Round of 32,West,12,4,0
+Saturday,Round of 32,West,1,8,0
+Sunday,Round of 32,East,7,2,0
+Sunday,Round of 32,East,6,3,0
+Sunday,Round of 32,Midwest,10,2,0
+Sunday,Round of 32,Midwest,3,6,0
+Sunday,Round of 32,Southeast,7,2,0
+Sunday,Round of 32,Southeast,11,3,0
+Sunday,Round of 32,West,10,2,0
+Sunday,Round of 32,West,6,3,0
+Thursday,Sweet Sixteen,East,12,1,0
+Thursday,Sweet Sixteen,East,3,2,0
+Thursday,Sweet Sixteen,Midwest,4,1,0
+Thursday,Sweet Sixteen,Midwest,6,2,0
+Friday,Sweet Sixteen,Southeast,3,2,0
+Friday,Sweet Sixteen,Southeast,1,5,0
+Friday,Sweet Sixteen,West,3,2,0
+Friday,Sweet Sixteen,West,8,4,0
+Saturday,Elite Eight,East,2,1,0
+Saturday,Elite Eight,Midwest,2,1,0
+Sunday,Elite Eight,Southeast,2,5,0
+Sunday,Elite Eight,West,2,4,0
+Saturday,National Semifinals,National Semifinals,1,1,0
+Saturday,National Semifinals,National Semifinals,5,4,0
+Monday,National Championship,National Championship,4,1,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,12,5,0
+Thursday,Round of 64,East,8,9,0
+Thursday,Round of 64,Midwest,15,2,0
+Thursday,Round of 64,Midwest,14,3,0
+Thursday,Round of 64,Midwest,11,6,0
+Thursday,Round of 64,Midwest,10,7,0
+Thursday,Round of 64,Southeast,16,1,0
+Thursday,Round of 64,Southeast,13,4,0
+Thursday,Round of 64,Southeast,9,8,0
+Thursday,Round of 64,Southeast,5,12,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,12,5,0
+Thursday,Round of 64,West,9,8,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,East,7,10,0
+Friday,Round of 64,East,2,15,0
+Friday,Round of 64,Midwest,16,1,0
+Friday,Round of 64,Midwest,13,4,0
+Friday,Round of 64,Midwest,12,5,0
+Friday,Round of 64,Midwest,8,9,0
+Friday,Round of 64,Southeast,15,2,0
+Friday,Round of 64,Southeast,11,6,0
+Friday,Round of 64,Southeast,7,10,0
+Friday,Round of 64,Southeast,3,14,0
+Friday,Round of 64,West,15,2,0
+Friday,Round of 64,West,14,3,0
+Friday,Round of 64,West,11,6,0
+Friday,Round of 64,West,10,7,0
+Saturday,Round of 32,East,9,1,0
+Saturday,Round of 32,East,4,5,0
+Saturday,Round of 32,Midwest,7,2,0
+Saturday,Round of 32,Midwest,3,6,0
+Saturday,Round of 32,Southeast,8,1,0
+Saturday,Round of 32,Southeast,12,4,0
+Saturday,Round of 32,West,8,1,0
+Saturday,Round of 32,West,5,4,0
+Sunday,Round of 32,East,3,6,0
+Sunday,Round of 32,East,15,10,0
+Sunday,Round of 32,Midwest,9,1,0
+Sunday,Round of 32,Midwest,5,4,0
+Sunday,Round of 32,Southeast,2,10,0
+Sunday,Round of 32,Southeast,6,14,0
+Sunday,Round of 32,West,7,2,0
+Sunday,Round of 32,West,3,6,0
+Thursday,Sweet Sixteen,Midwest,4,1,0
+Thursday,Sweet Sixteen,Midwest,6,2,0
+Thursday,Sweet Sixteen,West,4,1,0
+Thursday,Sweet Sixteen,West,6,2,0
+Friday,Sweet Sixteen,East,5,1,0
+Friday,Sweet Sixteen,East,10,6,0
+Friday,Sweet Sixteen,Southeast,1,4,0
+Friday,Sweet Sixteen,Southeast,14,10,0
+Saturday,Elite Eight,Midwest,2,1,0
+Saturday,Elite Eight,West,2,1,0
+Sunday,Elite Eight,East,6,1,0
+Sunday,Elite Eight,Southeast,10,4,0
+Saturday,National Semifinals,National Semifinals,1,1,0
+Saturday,National Semifinals,National Semifinals,1,4,0
+Monday,National Championship,National Championship,1,4,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,15,2,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,12,5,0
+Thursday,Round of 64,East,10,7,0
+Thursday,Round of 64,East,9,8,0
+Thursday,Round of 64,East,6,11,0
+Thursday,Round of 64,East,3,14,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,12,5,0
+Thursday,Round of 64,West,11,6,0
+Thursday,Round of 64,West,8,9,0
+Thursday,Round of 64,West,7,10,0
+Friday,Round of 64,Midwest,16,1,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,14,3,0
+Friday,Round of 64,Midwest,9,8,0
+Friday,Round of 64,Midwest,7,10,0
+Friday,Round of 64,Midwest,6,11,0
+Friday,Round of 64,Midwest,5,12,0
+Friday,Round of 64,Midwest,4,13,0
+Friday,Round of 64,South,16,1,0
+Friday,Round of 64,South,15,2,0
+Friday,Round of 64,South,14,3,0
+Friday,Round of 64,South,13,4,0
+Friday,Round of 64,South,12,5,0
+Friday,Round of 64,South,11,6,0
+Friday,Round of 64,South,9,8,0
+Friday,Round of 64,South,7,10,0
+Saturday,Round of 32,East,8,1,0
+Saturday,Round of 32,East,7,2,0
+Saturday,Round of 32,East,5,4,0
+Saturday,Round of 32,East,14,11,0
+Saturday,Round of 32,West,9,1,0
+Saturday,Round of 32,West,6,3,0
+Saturday,Round of 32,West,5,4,0
+Saturday,Round of 32,West,2,10,0
+Sunday,Round of 32,Midwest,10,2,0
+Sunday,Round of 32,Midwest,11,3,0
+Sunday,Round of 32,Midwest,1,8,0
+Sunday,Round of 32,Midwest,12,13,0
+Sunday,Round of 32,South,8,1,0
+Sunday,Round of 32,South,10,2,0
+Sunday,Round of 32,South,4,5,0
+Sunday,Round of 32,South,3,6,0
+Thursday,Sweet Sixteen,East,4,1,0
+Thursday,Sweet Sixteen,East,11,2,0
+Thursday,Sweet Sixteen,West,4,1,0
+Thursday,Sweet Sixteen,West,10,3,0
+Friday,Sweet Sixteen,Midwest,2,3,0
+Friday,Sweet Sixteen,Midwest,13,8,0
+Friday,Sweet Sixteen,South,5,1,0
+Friday,Sweet Sixteen,South,6,2,0
+Saturday,Elite Eight,East,2,1,0
+Saturday,Elite Eight,West,1,3,0
+Sunday,Elite Eight,Midwest,8,3,0
+Sunday,Elite Eight,South,1,2,0
+Saturday,National Semifinals,National Semifinals,3,2,0
+Saturday,National Semifinals,National Semifinals,1,3,0
+Monday,National Championship,National Championship,3,2,0
+Thursday,Round of 64,South,16,1,0
+Thursday,Round of 64,South,15,2,0
+Thursday,Round of 64,South,14,3,0
+Thursday,Round of 64,South,13,4,0
+Thursday,Round of 64,South,11,6,0
+Thursday,Round of 64,South,8,9,0
+Thursday,Round of 64,South,7,10,0
+Thursday,Round of 64,South,5,12,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,12,5,0
+Thursday,Round of 64,West,11,6,0
+Thursday,Round of 64,West,8,9,0
+Thursday,Round of 64,West,7,10,0
+Thursday,Round of 64,West,3,14,0
+Friday,Round of 64,East,16,1,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,13,4,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,East,8,9,0
+Friday,Round of 64,East,7,10,0
+Friday,Round of 64,East,5,12,0
+Friday,Round of 64,Midwest,16,1,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,14,3,0
+Friday,Round of 64,Midwest,12,5,0
+Friday,Round of 64,Midwest,11,6,0
+Friday,Round of 64,Midwest,8,9,0
+Friday,Round of 64,Midwest,7,10,0
+Friday,Round of 64,Midwest,4,13,0
+Saturday,Round of 32,South,9,1,0
+Saturday,Round of 32,South,10,2,0
+Saturday,Round of 32,South,6,3,0
+Saturday,Round of 32,South,12,4,0
+Saturday,Round of 32,West,9,1,0
+Saturday,Round of 32,West,4,5,0
+Saturday,Round of 32,West,14,6,0
+Saturday,Round of 32,West,2,10,0
+Sunday,Round of 32,East,9,1,0
+Sunday,Round of 32,East,3,6,0
+Sunday,Round of 32,East,2,10,0
+Sunday,Round of 32,East,4,12,0
+Sunday,Round of 32,Midwest,9,1,0
+Sunday,Round of 32,Midwest,6,3,0
+Sunday,Round of 32,Midwest,2,10,0
+Sunday,Round of 32,Midwest,5,13,0
+Thursday,Sweet Sixteen,South,2,3,0
+Thursday,Sweet Sixteen,South,1,4,0
+Thursday,Sweet Sixteen,West,5,1,0
+Thursday,Sweet Sixteen,West,6,10,0
+Friday,Sweet Sixteen,East,12,1,0
+Friday,Sweet Sixteen,East,10,6,0
+Friday,Sweet Sixteen,Midwest,13,1,0
+Friday,Sweet Sixteen,Midwest,10,3,0
+Saturday,Elite Eight,South,3,4,0
+Saturday,Elite Eight,West,10,1,0
+Sunday,Elite Eight,East,6,1,0
+Sunday,Elite Eight,Midwest,3,1,0
+Saturday,National Semifinals,National Semifinals,1,1,0
+Saturday,National Semifinals,National Semifinals,4,1,0
+Monday,National Championship,National Championship,1,1,0
+Thursday,Round of 64,Midwest,16,1,0
+Thursday,Round of 64,Midwest,15,2,0
+Thursday,Round of 64,Midwest,14,3,0
+Thursday,Round of 64,Midwest,13,4,0
+Thursday,Round of 64,Midwest,12,5,0
+Thursday,Round of 64,Midwest,11,6,0
+Thursday,Round of 64,Midwest,10,7,0
+Thursday,Round of 64,Midwest,9,8,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,12,5,0
+Thursday,Round of 64,West,11,6,0
+Thursday,Round of 64,West,9,8,0
+Thursday,Round of 64,West,7,10,0
+Friday,Round of 64,East,16,1,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,13,4,0
+Friday,Round of 64,East,12,5,0
+Friday,Round of 64,East,9,8,0
+Friday,Round of 64,East,7,10,0
+Friday,Round of 64,East,6,11,0
+Friday,Round of 64,South,16,1,0
+Friday,Round of 64,South,15,2,0
+Friday,Round of 64,South,14,3,0
+Friday,Round of 64,South,13,4,0
+Friday,Round of 64,South,12,5,0
+Friday,Round of 64,South,11,6,0
+Friday,Round of 64,South,10,7,0
+Friday,Round of 64,South,9,8,0
+Saturday,Round of 32,Midwest,8,1,0
+Saturday,Round of 32,Midwest,7,2,0
+Saturday,Round of 32,Midwest,5,4,0
+Saturday,Round of 32,Midwest,3,6,0
+Saturday,Round of 32,West,5,4,0
+Saturday,Round of 32,West,3,6,0
+Saturday,Round of 32,West,1,8,0
+Saturday,Round of 32,West,2,10,0
+Sunday,Round of 32,East,8,1,0
+Sunday,Round of 32,East,11,3,0
+Sunday,Round of 32,East,4,5,0
+Sunday,Round of 32,East,2,10,0
+Sunday,Round of 32,South,5,4,0
+Sunday,Round of 32,South,3,6,0
+Sunday,Round of 32,South,2,7,0
+Sunday,Round of 32,South,1,8,0
+Thursday,Sweet Sixteen,Midwest,4,1,0
+Thursday,Sweet Sixteen,Midwest,6,2,0
+Thursday,Sweet Sixteen,West,10,6,0
+Thursday,Sweet Sixteen,West,4,8,0
+Friday,Sweet Sixteen,East,10,3,0
+Friday,Sweet Sixteen,East,1,5,0
+Friday,Sweet Sixteen,South,6,7,0
+Friday,Sweet Sixteen,South,4,8,0
+Saturday,Elite Eight,Midwest,2,1,0
+Saturday,Elite Eight,West,6,8,0
+Sunday,Elite Eight,East,3,5,0
+Sunday,Elite Eight,South,7,8,0
+Saturday,National Semifinals,National Semifinals,8,1,0
+Saturday,National Semifinals,National Semifinals,8,5,0
+Monday,National Championship,National Championship,5,1,0
+Tuesday,Opening Round,Midwest,16,16,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,15,2,0
+Thursday,Round of 64,East,14,3,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,11,6,0
+Thursday,Round of 64,East,10,7,0
+Thursday,Round of 64,East,8,9,0
+Thursday,Round of 64,East,5,12,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,12,5,0
+Thursday,Round of 64,West,8,9,0
+Thursday,Round of 64,West,7,10,0
+Thursday,Round of 64,West,6,11,0
+Thursday,Round of 64,West,4,13,0
+Thursday,Round of 64,West,2,15,0
+Friday,Round of 64,Midwest,16,1,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,14,3,0
+Friday,Round of 64,Midwest,13,4,0
+Friday,Round of 64,Midwest,12,5,0
+Friday,Round of 64,Midwest,11,6,0
+Friday,Round of 64,Midwest,8,9,0
+Friday,Round of 64,Midwest,7,10,0
+Friday,Round of 64,South,16,1,0
+Friday,Round of 64,South,15,2,0
+Friday,Round of 64,South,14,3,0
+Friday,Round of 64,South,10,7,0
+Friday,Round of 64,South,8,9,0
+Friday,Round of 64,South,6,11,0
+Friday,Round of 64,South,5,12,0
+Friday,Round of 64,South,4,13,0
+Saturday,Round of 32,East,9,1,0
+Saturday,Round of 32,East,7,2,0
+Saturday,Round of 32,East,12,4,0
+Saturday,Round of 32,East,3,6,0
+Saturday,Round of 32,West,9,1,0
+Saturday,Round of 32,West,11,3,0
+Saturday,Round of 32,West,13,5,0
+Saturday,Round of 32,West,15,10,0
+Sunday,Round of 32,Midwest,9,1,0
+Sunday,Round of 32,Midwest,10,2,0
+Sunday,Round of 32,Midwest,6,3,0
+Sunday,Round of 32,Midwest,5,4,0
+Sunday,Round of 32,South,9,1,0
+Sunday,Round of 32,South,2,7,0
+Sunday,Round of 32,South,3,11,0
+Sunday,Round of 32,South,13,12,0
+Thursday,Sweet Sixteen,East,4,1,0
+Thursday,Sweet Sixteen,East,2,6,0
+Thursday,Sweet Sixteen,West,5,1,0
+Thursday,Sweet Sixteen,West,10,3,0
+Friday,Sweet Sixteen,Midwest,4,1,0
+Friday,Sweet Sixteen,Midwest,3,2,0
+Friday,Sweet Sixteen,South,12,1,0
+Friday,Sweet Sixteen,South,7,11,0
+Saturday,Elite Eight,East,6,1,0
+Saturday,Elite Eight,West,1,3,0
+Sunday,Elite Eight,Midwest,1,2,0
+Sunday,Elite Eight,South,11,1,0
+Saturday,National Semifinals,National Semifinals,3,1,0
+Saturday,National Semifinals,National Semifinals,1,2,0
+Monday,National Championship,National Championship,2,1,0
+Tuesday,Opening Round,East,16,16,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,5,12,0
+Thursday,Round of 64,Midwest,16,1,0
+Thursday,Round of 64,Midwest,15,2,0
+Thursday,Round of 64,Midwest,10,7,0
+Thursday,Round of 64,Midwest,9,8,0
+Thursday,Round of 64,South,16,1,0
+Thursday,Round of 64,South,15,2,0
+Thursday,Round of 64,South,12,5,0
+Thursday,Round of 64,South,9,8,0
+Thursday,Round of 64,South,7,10,0
+Thursday,Round of 64,South,4,13,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,6,11,0
+Thursday,Round of 64,West,5,12,0
+Friday,Round of 64,East,16,1,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,10,7,0
+Friday,Round of 64,East,9,8,0
+Friday,Round of 64,East,6,11,0
+Friday,Round of 64,Midwest,14,3,0
+Friday,Round of 64,Midwest,13,4,0
+Friday,Round of 64,Midwest,11,6,0
+Friday,Round of 64,Midwest,5,12,0
+Friday,Round of 64,South,14,3,0
+Friday,Round of 64,South,11,6,0
+Friday,Round of 64,West,16,1,0
+Friday,Round of 64,West,15,2,0
+Friday,Round of 64,West,10,7,0
+Friday,Round of 64,West,9,8,0
+Saturday,Round of 32,East,12,4,0
+Saturday,Round of 32,Midwest,8,1,0
+Saturday,Round of 32,Midwest,7,2,0
+Saturday,Round of 32,South,8,1,0
+Saturday,Round of 32,South,13,5,0
+Saturday,Round of 32,South,2,10,0
+Saturday,Round of 32,West,11,3,0
+Saturday,Round of 32,West,4,12,0
+Sunday,Round of 32,East,8,1,0
+Sunday,Round of 32,East,7,2,0
+Sunday,Round of 32,East,3,11,0
+Sunday,Round of 32,Midwest,12,4,0
+Sunday,Round of 32,Midwest,3,6,0
+Sunday,Round of 32,South,6,3,0
+Sunday,Round of 32,West,7,2,0
+Sunday,Round of 32,West,1,8,0
+Thursday,Sweet Sixteen,South,1,5,0
+Thursday,Sweet Sixteen,South,3,10,0
+Thursday,Sweet Sixteen,West,3,2,0
+Thursday,Sweet Sixteen,West,8,12,0
+Friday,Sweet Sixteen,East,4,1,0
+Friday,Sweet Sixteen,East,11,2,0
+Friday,Sweet Sixteen,Midwest,4,1,0
+Friday,Sweet Sixteen,Midwest,6,2,0
+Saturday,Elite Eight,South,10,5,0
+Saturday,Elite Eight,West,12,2,0
+Sunday,Elite Eight,East,2,1,0
+Sunday,Elite Eight,Midwest,2,1,0
+Saturday,National Semifinals,National Semifinals,1,1,0
+Saturday,National Semifinals,National Semifinals,2,5,0
+Monday,National Championship,National Championship,5,1,0
+Tuesday,Opening Round,South,16,16,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,9,8,0
+Thursday,Round of 64,Midwest,14,3,0
+Thursday,Round of 64,Midwest,12,5,0
+Thursday,Round of 64,Midwest,11,6,0
+Thursday,Round of 64,Midwest,4,13,0
+Thursday,Round of 64,South,13,4,0
+Thursday,Round of 64,South,12,5,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,12,5,0
+Thursday,Round of 64,West,8,9,0
+Thursday,Round of 64,West,7,10,0
+Thursday,Round of 64,West,6,11,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,13,4,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,East,7,10,0
+Friday,Round of 64,East,5,12,0
+Friday,Round of 64,Midwest,16,1,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,10,7,0
+Friday,Round of 64,Midwest,8,9,0
+Friday,Round of 64,South,16,1,0
+Friday,Round of 64,South,15,2,0
+Friday,Round of 64,South,14,3,0
+Friday,Round of 64,South,11,6,0
+Friday,Round of 64,South,10,7,0
+Friday,Round of 64,South,8,9,0
+Saturday,Round of 32,East,8,1,0
+Saturday,Round of 32,Midwest,6,3,0
+Saturday,Round of 32,Midwest,13,5,0
+Saturday,Round of 32,South,4,5,0
+Saturday,Round of 32,West,9,1,0
+Saturday,Round of 32,West,10,2,0
+Saturday,Round of 32,West,11,3,0
+Saturday,Round of 32,West,4,5,0
+Sunday,Round of 32,East,6,3,0
+Sunday,Round of 32,East,2,10,0
+Sunday,Round of 32,East,4,12,0
+Sunday,Round of 32,Midwest,9,1,0
+Sunday,Round of 32,Midwest,7,2,0
+Sunday,Round of 32,South,9,1,0
+Sunday,Round of 32,South,3,6,0
+Sunday,Round of 32,South,2,7,0
+Thursday,Sweet Sixteen,Midwest,5,1,0
+Thursday,Sweet Sixteen,Midwest,2,3,0
+Thursday,Sweet Sixteen,West,5,1,0
+Thursday,Sweet Sixteen,West,3,2,0
+Friday,Sweet Sixteen,East,12,1,0
+Friday,Sweet Sixteen,East,10,3,0
+Friday,Sweet Sixteen,South,5,1,0
+Friday,Sweet Sixteen,South,6,7,0
+Saturday,Elite Eight,Midwest,1,3,0
+Saturday,Elite Eight,West,1,2,0
+Sunday,Elite Eight,East,1,3,0
+Sunday,Elite Eight,South,7,1,0
+Saturday,National Semifinals,National Semifinals,3,2,0
+Saturday,National Semifinals,National Semifinals,1,3,0
+Monday,National Championship,National Championship,2,3,0
+Tuesday,Opening Round,Midwest,16,16,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,9,8,0
+Thursday,Round of 64,East,5,12,0
+Thursday,Round of 64,Midwest,15,2,0
+Thursday,Round of 64,Midwest,7,10,0
+Thursday,Round of 64,South,16,1,0
+Thursday,Round of 64,South,14,3,0
+Thursday,Round of 64,South,11,6,0
+Thursday,Round of 64,South,9,8,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,12,5,0
+Thursday,Round of 64,West,10,7,0
+Thursday,Round of 64,West,9,8,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,East,10,7,0
+Friday,Round of 64,Midwest,16,1,0
+Friday,Round of 64,Midwest,14,3,0
+Friday,Round of 64,Midwest,13,4,0
+Friday,Round of 64,Midwest,11,6,0
+Friday,Round of 64,Midwest,8,9,0
+Friday,Round of 64,Midwest,5,12,0
+Friday,Round of 64,South,15,2,0
+Friday,Round of 64,South,13,4,0
+Friday,Round of 64,South,12,5,0
+Friday,Round of 64,South,10,7,0
+Friday,Round of 64,West,14,3,0
+Friday,Round of 64,West,11,6,0
+Saturday,Round of 32,East,8,1,0
+Saturday,Round of 32,East,12,4,0
+Saturday,Round of 32,Midwest,2,10,0
+Saturday,Round of 32,South,8,1,0
+Saturday,Round of 32,South,6,3,0
+Saturday,Round of 32,West,7,2,0
+Saturday,Round of 32,West,4,5,0
+Saturday,Round of 32,West,1,8,0
+Sunday,Round of 32,East,7,2,0
+Sunday,Round of 32,East,6,3,0
+Sunday,Round of 32,Midwest,6,3,0
+Sunday,Round of 32,Midwest,12,4,0
+Sunday,Round of 32,Midwest,1,9,0
+Sunday,Round of 32,South,4,5,0
+Sunday,Round of 32,South,2,7,0
+Sunday,Round of 32,West,3,6,0
+Thursday,Sweet Sixteen,East,4,1,0
+Thursday,Sweet Sixteen,East,3,2,0
+Thursday,Sweet Sixteen,West,6,2,0
+Thursday,Sweet Sixteen,West,5,8,0
+Friday,Sweet Sixteen,Midwest,10,3,0
+Friday,Sweet Sixteen,Midwest,9,4,0
+Friday,Sweet Sixteen,South,5,1,0
+Friday,Sweet Sixteen,South,3,7,0
+Saturday,Elite Eight,East,1,2,0
+Saturday,Elite Eight,West,8,2,0
+Sunday,Elite Eight,Midwest,4,3,0
+Sunday,Elite Eight,South,7,1,0
+Saturday,National Semifinals,National Semifinals,1,2,0
+Saturday,National Semifinals,National Semifinals,2,3,0
+Monday,National Championship,National Championship,3,2,0
+Tuesday,Opening Round,East,16,16,0
+Thursday,Round of 64,Midwest,16,1,0
+Thursday,Round of 64,Midwest,14,3,0
+Thursday,Round of 64,Midwest,13,4,0
+Thursday,Round of 64,Midwest,8,9,0
+Thursday,Round of 64,Midwest,6,11,0
+Thursday,Round of 64,Midwest,5,12,0
+Thursday,Round of 64,South,15,2,0
+Thursday,Round of 64,South,14,3,0
+Thursday,Round of 64,South,11,6,0
+Thursday,Round of 64,South,10,7,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,11,6,0
+Thursday,Round of 64,West,10,7,0
+Thursday,Round of 64,West,9,8,0
+Friday,Round of 64,East,16,1,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,13,4,0
+Friday,Round of 64,East,12,5,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,East,8,9,0
+Friday,Round of 64,East,7,10,0
+Friday,Round of 64,East,3,14,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,10,7,0
+Friday,Round of 64,South,16,1,0
+Friday,Round of 64,South,12,5,0
+Friday,Round of 64,South,8,9,0
+Friday,Round of 64,South,4,13,0
+Friday,Round of 64,West,13,4,0
+Friday,Round of 64,West,12,5,0
+Saturday,Round of 32,Midwest,9,1,0
+Saturday,Round of 32,Midwest,11,3,0
+Saturday,Round of 32,Midwest,4,12,0
+Saturday,Round of 32,South,7,2,0
+Saturday,Round of 32,South,3,6,0
+Saturday,Round of 32,West,8,1,0
+Saturday,Round of 32,West,3,6,0
+Saturday,Round of 32,West,2,7,0
+Sunday,Round of 32,East,9,1,0
+Sunday,Round of 32,East,4,5,0
+Sunday,Round of 32,East,14,6,0
+Sunday,Round of 32,East,2,10,0
+Sunday,Round of 32,Midwest,7,2,0
+Sunday,Round of 32,South,9,1,0
+Sunday,Round of 32,South,13,5,0
+Sunday,Round of 32,West,5,4,0
+Thursday,Sweet Sixteen,Midwest,12,1,0
+Thursday,Sweet Sixteen,Midwest,2,3,0
+Thursday,Sweet Sixteen,West,1,4,0
+Thursday,Sweet Sixteen,West,6,7,0
+Friday,Sweet Sixteen,East,5,1,0
+Friday,Sweet Sixteen,East,10,6,0
+Friday,Sweet Sixteen,South,6,2,0
+Friday,Sweet Sixteen,South,1,5,0
+Saturday,Elite Eight,Midwest,3,1,0
+Saturday,Elite Eight,West,7,4,0
+Sunday,Elite Eight,East,6,1,0
+Sunday,Elite Eight,South,2,5,0
+Saturday,National Semifinals,National Semifinals,5,1,0
+Saturday,National Semifinals,National Semifinals,4,1,0
+Monday,National Championship,National Championship,1,1,0
+Tuesday,Opening Round,Midwest,16,16,0
+Thursday,Round of 64,East,15,2,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,12,5,0
+Thursday,Round of 64,East,10,7,0
+Thursday,Round of 64,Midwest,14,3,0
+Thursday,Round of 64,Midwest,13,4,0
+Thursday,Round of 64,Midwest,6,11,0
+Thursday,Round of 64,Midwest,5,12,0
+Thursday,Round of 64,South,16,1,0
+Thursday,Round of 64,South,13,4,0
+Thursday,Round of 64,South,9,8,0
+Thursday,Round of 64,South,5,12,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,11,6,0
+Thursday,Round of 64,West,7,10,0
+Friday,Round of 64,East,16,1,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,9,8,0
+Friday,Round of 64,East,6,11,0
+Friday,Round of 64,Midwest,16,1,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,10,7,0
+Friday,Round of 64,Midwest,9,8,0
+Friday,Round of 64,South,15,2,0
+Friday,Round of 64,South,11,6,0
+Friday,Round of 64,South,7,10,0
+Friday,Round of 64,South,3,14,0
+Friday,Round of 64,West,16,1,0
+Friday,Round of 64,West,12,5,0
+Friday,Round of 64,West,8,9,0
+Friday,Round of 64,West,4,13,0
+Saturday,Round of 32,East,4,5,0
+Saturday,Round of 32,East,2,7,0
+Saturday,Round of 32,Midwest,11,3,0
+Saturday,Round of 32,Midwest,12,4,0
+Saturday,Round of 32,South,8,1,0
+Saturday,Round of 32,South,12,4,0
+Saturday,Round of 32,West,10,2,0
+Saturday,Round of 32,West,6,3,0
+Sunday,Round of 32,East,8,1,0
+Sunday,Round of 32,East,3,11,0
+Sunday,Round of 32,Midwest,8,1,0
+Sunday,Round of 32,Midwest,2,7,0
+Sunday,Round of 32,South,10,2,0
+Sunday,Round of 32,South,14,6,0
+Sunday,Round of 32,West,9,1,0
+Sunday,Round of 32,West,5,13,0
+Thursday,Sweet Sixteen,South,6,2,0
+Thursday,Sweet Sixteen,South,1,4,0
+Thursday,Sweet Sixteen,West,13,1,0
+Thursday,Sweet Sixteen,West,3,2,0
+Friday,Sweet Sixteen,East,5,1,0
+Friday,Sweet Sixteen,East,7,11,0
+Friday,Sweet Sixteen,Midwest,4,1,0
+Friday,Sweet Sixteen,Midwest,7,3,0
+Saturday,Elite Eight,South,2,4,0
+Saturday,Elite Eight,West,1,2,0
+Sunday,Elite Eight,East,1,11,0
+Sunday,Elite Eight,Midwest,1,3,0
+Saturday,National Semifinals,National Semifinals,4,2,0
+Saturday,National Semifinals,National Semifinals,11,3,0
+Monday,National Championship,National Championship,2,3,0
+Tuesday,Opening Round,West,16,16,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,15,2,0
+Thursday,Round of 64,East,14,3,0
+Thursday,Round of 64,East,11,6,0
+Thursday,Round of 64,East,10,7,0
+Thursday,Round of 64,East,8,9,0
+Thursday,Round of 64,Midwest,13,4,0
+Thursday,Round of 64,Midwest,12,5,0
+Thursday,Round of 64,South,16,1,0
+Thursday,Round of 64,South,14,3,0
+Thursday,Round of 64,South,11,6,0
+Thursday,Round of 64,South,8,9,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,10,7,0
+Thursday,Round of 64,West,6,11,0
+Friday,Round of 64,East,13,4,0
+Friday,Round of 64,East,12,5,0
+Friday,Round of 64,Midwest,16,1,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,14,3,0
+Friday,Round of 64,Midwest,10,7,0
+Friday,Round of 64,Midwest,8,9,0
+Friday,Round of 64,Midwest,6,11,0
+Friday,Round of 64,South,15,2,0
+Friday,Round of 64,South,13,4,0
+Friday,Round of 64,South,12,5,0
+Friday,Round of 64,South,10,7,0
+Friday,Round of 64,West,16,1,0
+Friday,Round of 64,West,13,4,0
+Friday,Round of 64,West,12,5,0
+Friday,Round of 64,West,9,8,0
+Saturday,Round of 32,East,9,1,0
+Saturday,Round of 32,East,7,2,0
+Saturday,Round of 32,East,3,6,0
+Saturday,Round of 32,Midwest,4,5,0
+Saturday,Round of 32,South,9,1,0
+Saturday,Round of 32,South,6,3,0
+Saturday,Round of 32,West,7,2,0
+Saturday,Round of 32,West,11,3,0
+Sunday,Round of 32,East,4,5,0
+Sunday,Round of 32,Midwest,9,1,0
+Sunday,Round of 32,Midwest,11,3,0
+Sunday,Round of 32,Midwest,2,7,0
+Sunday,Round of 32,South,7,2,0
+Sunday,Round of 32,South,4,5,0
+Sunday,Round of 32,West,8,1,0
+Sunday,Round of 32,West,5,4,0
+Thursday,Sweet Sixteen,South,5,1,0
+Thursday,Sweet Sixteen,South,3,2,0
+Thursday,Sweet Sixteen,West,4,1,0
+Thursday,Sweet Sixteen,West,3,2,0
+Friday,Sweet Sixteen,East,5,1,0
+Friday,Sweet Sixteen,East,6,2,0
+Friday,Sweet Sixteen,Midwest,5,1,0
+Friday,Sweet Sixteen,Midwest,7,3,0
+Saturday,Elite Eight,South,2,1,0
+Saturday,Elite Eight,West,1,2,0
+Sunday,Elite Eight,East,1,2,0
+Sunday,Elite Eight,Midwest,3,1,0
+Saturday,National Semifinals,National Semifinals,2,1,0
+Saturday,National Semifinals,National Semifinals,2,1,0
+Monday,National Championship,National Championship,1,1,0
+Tuesday,Opening Round,East,16,16,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,12,5,0
+Thursday,Round of 64,Midwest,16,1,0
+Thursday,Round of 64,Midwest,14,3,0
+Thursday,Round of 64,Midwest,9,8,0
+Thursday,Round of 64,Midwest,6,11,0
+Thursday,Round of 64,South,14,3,0
+Thursday,Round of 64,South,13,4,0
+Thursday,Round of 64,South,12,5,0
+Thursday,Round of 64,South,11,6,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,11,6,0
+Thursday,Round of 64,West,10,7,0
+Thursday,Round of 64,West,8,9,0
+Friday,Round of 64,East,16,1,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,East,10,7,0
+Friday,Round of 64,East,8,9,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,7,10,0
+Friday,Round of 64,Midwest,5,12,0
+Friday,Round of 64,Midwest,4,13,0
+Friday,Round of 64,South,16,1,0
+Friday,Round of 64,South,15,2,0
+Friday,Round of 64,South,10,7,0
+Friday,Round of 64,South,9,8,0
+Friday,Round of 64,West,5,12,0
+Friday,Round of 64,West,4,13,0
+Saturday,Round of 32,East,5,4,0
+Saturday,Round of 32,Midwest,8,1,0
+Saturday,Round of 32,Midwest,11,3,0
+Saturday,Round of 32,South,6,3,0
+Saturday,Round of 32,South,4,5,0
+Saturday,Round of 32,West,9,1,0
+Saturday,Round of 32,West,6,3,0
+Saturday,Round of 32,West,2,7,0
+Sunday,Round of 32,East,9,1,0
+Sunday,Round of 32,East,7,2,0
+Sunday,Round of 32,East,6,3,0
+Sunday,Round of 32,Midwest,2,10,0
+Sunday,Round of 32,Midwest,13,12,0
+Sunday,Round of 32,South,8,1,0
+Sunday,Round of 32,South,7,2,0
+Sunday,Round of 32,West,13,12,0
+Thursday,Sweet Sixteen,East,4,1,0
+Thursday,Sweet Sixteen,East,2,3,0
+Thursday,Sweet Sixteen,West,12,1,0
+Thursday,Sweet Sixteen,West,7,3,0
+Friday,Sweet Sixteen,Midwest,12,1,0
+Friday,Sweet Sixteen,Midwest,3,10,0
+Friday,Sweet Sixteen,South,5,1,0
+Friday,Sweet Sixteen,South,3,2,0
+Saturday,Elite Eight,East,3,1,0
+Saturday,Elite Eight,West,3,1,0
+Sunday,Elite Eight,Midwest,10,1,0
+Sunday,Elite Eight,South,2,1,0
+Saturday,National Semifinals,National Semifinals,1,1,0
+Saturday,National Semifinals,National Semifinals,1,1,0
+Monday,National Championship,National Championship,1,1,0
+Tuesday,Opening Round,Midwest,16,16,0
+Thursday,Round of 64,East,15,2,0
+Thursday,Round of 64,East,14,3,0
+Thursday,Round of 64,East,11,6,0
+Thursday,Round of 64,East,10,7,0
+Thursday,Round of 64,South,16,1,0
+Thursday,Round of 64,South,15,2,0
+Thursday,Round of 64,South,13,4,0
+Thursday,Round of 64,South,9,8,0
+Thursday,Round of 64,South,7,10,0
+Thursday,Round of 64,South,5,12,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,12,5,0
+Thursday,Round of 64,West,8,9,0
+Thursday,Round of 64,West,7,10,0
+Friday,Round of 64,East,16,1,0
+Friday,Round of 64,East,13,4,0
+Friday,Round of 64,East,9,8,0
+Friday,Round of 64,East,5,12,0
+Friday,Round of 64,Midwest,16,1,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,14,3,0
+Friday,Round of 64,Midwest,8,9,0
+Friday,Round of 64,Midwest,7,10,0
+Friday,Round of 64,Midwest,6,11,0
+Friday,Round of 64,Midwest,5,12,0
+Friday,Round of 64,Midwest,4,13,0
+Friday,Round of 64,South,14,3,0
+Friday,Round of 64,South,11,6,0
+Friday,Round of 64,West,14,3,0
+Friday,Round of 64,West,11,6,0
+Saturday,Round of 32,East,7,2,0
+Saturday,Round of 32,East,6,3,0
+Saturday,Round of 32,South,8,1,0
+Saturday,Round of 32,South,10,2,0
+Saturday,Round of 32,South,12,4,0
+Saturday,Round of 32,West,9,1,0
+Saturday,Round of 32,West,10,2,0
+Saturday,Round of 32,West,4,5,0
+Sunday,Round of 32,East,8,1,0
+Sunday,Round of 32,East,12,4,0
+Sunday,Round of 32,Midwest,9,1,0
+Sunday,Round of 32,Midwest,10,2,0
+Sunday,Round of 32,Midwest,11,3,0
+Sunday,Round of 32,Midwest,13,12,0
+Sunday,Round of 32,South,6,3,0
+Sunday,Round of 32,West,6,3,0
+Thursday,Sweet Sixteen,East,4,1,0
+Thursday,Sweet Sixteen,East,2,3,0
+Thursday,Sweet Sixteen,West,5,1,0
+Thursday,Sweet Sixteen,West,2,3,0
+Friday,Sweet Sixteen,Midwest,12,1,0
+Friday,Sweet Sixteen,Midwest,3,2,0
+Friday,Sweet Sixteen,South,4,1,0
+Friday,Sweet Sixteen,South,3,2,0
+Saturday,Elite Eight,East,1,3,0
+Saturday,Elite Eight,West,3,1,0
+Sunday,Elite Eight,Midwest,1,2,0
+Sunday,Elite Eight,South,2,1,0
+Saturday,National Semifinals,National Semifinals,3,1,0
+Saturday,National Semifinals,National Semifinals,1,2,0
+Monday,National Championship,National Championship,2,1,0
+Tuesday,Opening Round,South,16,16,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,14,3,0
+Thursday,Round of 64,East,8,9,0
+Thursday,Round of 64,East,6,11,0
+Thursday,Round of 64,Midwest,16,1,0
+Thursday,Round of 64,Midwest,11,6,0
+Thursday,Round of 64,Midwest,8,9,0
+Thursday,Round of 64,Midwest,3,14,0
+Thursday,Round of 64,South,15,2,0
+Thursday,Round of 64,South,14,3,0
+Thursday,Round of 64,South,7,10,0
+Thursday,Round of 64,South,6,11,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,12,5,0
+Thursday,Round of 64,West,10,7,0
+Thursday,Round of 64,West,4,13,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,13,4,0
+Friday,Round of 64,East,7,10,0
+Friday,Round of 64,East,5,12,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,13,4,0
+Friday,Round of 64,Midwest,12,5,0
+Friday,Round of 64,Midwest,7,10,0
+Friday,Round of 64,South,16,1,0
+Friday,Round of 64,South,13,4,0
+Friday,Round of 64,South,12,5,0
+Friday,Round of 64,South,9,8,0
+Friday,Round of 64,West,16,1,0
+Friday,Round of 64,West,14,3,0
+Friday,Round of 64,West,11,6,0
+Friday,Round of 64,West,9,8,0
+Saturday,Round of 32,East,9,1,0
+Saturday,Round of 32,East,3,11,0
+Saturday,Round of 32,Midwest,14,6,0
+Saturday,Round of 32,Midwest,1,9,0
+Saturday,Round of 32,South,11,3,0
+Saturday,Round of 32,South,2,10,0
+Saturday,Round of 32,West,7,2,0
+Saturday,Round of 32,West,13,5,0
+Sunday,Round of 32,East,10,2,0
+Sunday,Round of 32,East,4,12,0
+Sunday,Round of 32,Midwest,10,2,0
+Sunday,Round of 32,Midwest,4,5,0
+Sunday,Round of 32,South,8,1,0
+Sunday,Round of 32,South,5,4,0
+Sunday,Round of 32,West,8,1,0
+Sunday,Round of 32,West,3,6,0
+Thursday,Sweet Sixteen,East,12,1,0
+Thursday,Sweet Sixteen,East,11,2,0
+Thursday,Sweet Sixteen,West,6,2,0
+Thursday,Sweet Sixteen,West,1,5,0
+Friday,Sweet Sixteen,Midwest,9,5,0
+Friday,Sweet Sixteen,Midwest,2,6,0
+Friday,Sweet Sixteen,South,4,1,0
+Friday,Sweet Sixteen,South,10,3,0
+Saturday,Elite Eight,East,1,2,0
+Saturday,Elite Eight,West,2,5,0
+Sunday,Elite Eight,Midwest,6,5,0
+Sunday,Elite Eight,South,3,1,0
+Saturday,National Semifinals,National Semifinals,2,1,0
+Saturday,National Semifinals,National Semifinals,5,5,0
+Monday,National Championship,National Championship,5,1,0
+Tuesday,Opening Round,East,12,12,0
+Tuesday,Opening Round,Southeast,16,16,0
+Wednesday,Opening Round,East,16,16,0
+Wednesday,Opening Round,Southwest,11,11,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,12,5,0
+Thursday,Round of 64,Southeast,16,1,0
+Thursday,Round of 64,Southeast,15,2,0
+Thursday,Round of 64,Southeast,14,3,0
+Thursday,Round of 64,Southeast,13,4,0
+Thursday,Round of 64,Southeast,12,5,0
+Thursday,Round of 64,Southeast,10,7,0
+Thursday,Round of 64,Southeast,9,8,0
+Thursday,Round of 64,Southeast,6,11,0
+Thursday,Round of 64,Southwest,5,12,0
+Thursday,Round of 64,Southwest,4,13,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,11,6,0
+Thursday,Round of 64,West,10,7,0
+Friday,Round of 64,East,16,1,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,10,7,0
+Friday,Round of 64,East,9,8,0
+Friday,Round of 64,East,6,11,0
+Friday,Round of 64,Southwest,16,1,0
+Friday,Round of 64,Southwest,15,2,0
+Friday,Round of 64,Southwest,14,3,0
+Friday,Round of 64,Southwest,8,9,0
+Friday,Round of 64,Southwest,7,10,0
+Friday,Round of 64,Southwest,6,11,0
+Friday,Round of 64,West,16,1,0
+Friday,Round of 64,West,13,4,0
+Friday,Round of 64,West,12,5,0
+Friday,Round of 64,West,9,8,0
+Saturday,Round of 32,East,5,4,0
+Saturday,Round of 32,Southeast,7,2,0
+Saturday,Round of 32,Southeast,11,3,0
+Saturday,Round of 32,Southeast,5,4,0
+Saturday,Round of 32,Southeast,1,8,0
+Saturday,Round of 32,Southwest,13,12,0
+Saturday,Round of 32,West,7,2,0
+Saturday,Round of 32,West,6,3,0
+Sunday,Round of 32,East,8,1,0
+Sunday,Round of 32,East,7,2,0
+Sunday,Round of 32,East,3,11,0
+Sunday,Round of 32,Southwest,9,1,0
+Sunday,Round of 32,Southwest,2,10,0
+Sunday,Round of 32,Southwest,3,11,0
+Sunday,Round of 32,West,8,1,0
+Sunday,Round of 32,West,4,5,0
+Thursday,Sweet Sixteen,Southeast,3,2,0
+Thursday,Sweet Sixteen,Southeast,4,8,0
+Thursday,Sweet Sixteen,West,2,3,0
+Thursday,Sweet Sixteen,West,1,5,0
+Friday,Sweet Sixteen,East,11,2,0
+Friday,Sweet Sixteen,East,1,4,0
+Friday,Sweet Sixteen,Southwest,12,1,0
+Friday,Sweet Sixteen,Southwest,10,11,0
+Saturday,Elite Eight,Southeast,2,8,0
+Saturday,Elite Eight,West,5,3,0
+Sunday,Elite Eight,East,2,4,0
+Sunday,Elite Eight,Southwest,1,11,0
+Saturday,National Semifinals,National Semifinals,4,3,0
+Saturday,National Semifinals,National Semifinals,11,8,0
+Monday,National Championship,National Championship,8,3,0
+Tuesday,Opening Round,South,16,16,0
+Tuesday,Opening Round,West,14,14,0
+Wednesday,Opening Round,Midwest,12,12,0
+Wednesday,Opening Round,Midwest,16,16,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,15,2,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,12,5,0
+Thursday,Round of 64,East,10,7,0
+Thursday,Round of 64,East,9,8,0
+Thursday,Round of 64,South,16,1,0
+Thursday,Round of 64,South,14,3,0
+Thursday,Round of 64,South,13,4,0
+Thursday,Round of 64,South,9,8,0
+Thursday,Round of 64,South,6,11,0
+Thursday,Round of 64,South,5,12,0
+Thursday,Round of 64,West,14,3,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,12,5,0
+Thursday,Round of 64,West,11,6,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,Midwest,16,1,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,14,3,0
+Friday,Round of 64,Midwest,9,8,0
+Friday,Round of 64,Midwest,7,10,0
+Friday,Round of 64,Midwest,6,11,0
+Friday,Round of 64,Midwest,5,12,0
+Friday,Round of 64,Midwest,4,13,0
+Friday,Round of 64,South,7,10,0
+Friday,Round of 64,South,2,15,0
+Friday,Round of 64,West,16,1,0
+Friday,Round of 64,West,10,7,0
+Friday,Round of 64,West,8,9,0
+Friday,Round of 64,West,2,15,0
+Saturday,Round of 32,East,8,1,0
+Saturday,Round of 32,East,7,2,0
+Saturday,Round of 32,East,5,4,0
+Saturday,Round of 32,South,8,1,0
+Saturday,Round of 32,South,11,3,0
+Saturday,Round of 32,South,12,4,0
+Saturday,Round of 32,West,6,3,0
+Saturday,Round of 32,West,5,4,0
+Sunday,Round of 32,East,3,6,0
+Sunday,Round of 32,Midwest,8,1,0
+Sunday,Round of 32,Midwest,10,2,0
+Sunday,Round of 32,Midwest,3,11,0
+Sunday,Round of 32,Midwest,12,13,0
+Sunday,Round of 32,South,15,10,0
+Sunday,Round of 32,West,9,1,0
+Sunday,Round of 32,West,15,7,0
+Thursday,Sweet Sixteen,East,4,1,0
+Thursday,Sweet Sixteen,East,6,2,0
+Thursday,Sweet Sixteen,West,1,4,0
+Thursday,Sweet Sixteen,West,3,7,0
+Friday,Sweet Sixteen,Midwest,13,1,0
+Friday,Sweet Sixteen,Midwest,11,2,0
+Friday,Sweet Sixteen,South,4,1,0
+Friday,Sweet Sixteen,South,10,3,0
+Saturday,Elite Eight,East,1,2,0
+Saturday,Elite Eight,West,7,4,0
+Sunday,Elite Eight,Midwest,1,2,0
+Sunday,Elite Eight,South,3,1,0
+Saturday,National Semifinals,National Semifinals,4,1,0
+Saturday,National Semifinals,National Semifinals,2,2,0
+Monday,National Championship,National Championship,2,1,0
+Tuesday,Opening Round,Midwest,11,11,0
+Tuesday,Opening Round,Midwest,16,16,0
+Wednesday,Opening Round,East,16,16,0
+Wednesday,Opening Round,West,13,13,0
+Thursday,Round of 64,East,14,3,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,11,6,0
+Thursday,Round of 64,East,5,12,0
+Thursday,Round of 64,Midwest,16,1,0
+Thursday,Round of 64,Midwest,14,3,0
+Thursday,Round of 64,Midwest,13,4,0
+Thursday,Round of 64,Midwest,11,6,0
+Thursday,Round of 64,Midwest,9,8,0
+Thursday,Round of 64,Midwest,5,12,0
+Thursday,Round of 64,South,13,4,0
+Thursday,Round of 64,South,12,5,0
+Thursday,Round of 64,West,16,1,0
+Thursday,Round of 64,West,11,6,0
+Thursday,Round of 64,West,8,9,0
+Thursday,Round of 64,West,3,14,0
+Friday,Round of 64,East,16,1,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,10,7,0
+Friday,Round of 64,East,8,9,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,10,7,0
+Friday,Round of 64,South,16,1,0
+Friday,Round of 64,South,14,3,0
+Friday,Round of 64,South,10,7,0
+Friday,Round of 64,South,9,8,0
+Friday,Round of 64,South,6,11,0
+Friday,Round of 64,South,2,15,0
+Friday,Round of 64,West,15,2,0
+Friday,Round of 64,West,7,10,0
+Friday,Round of 64,West,5,12,0
+Friday,Round of 64,West,4,13,0
+Saturday,Round of 32,East,6,3,0
+Saturday,Round of 32,East,12,4,0
+Saturday,Round of 32,Midwest,8,1,0
+Saturday,Round of 32,Midwest,6,3,0
+Saturday,Round of 32,Midwest,4,12,0
+Saturday,Round of 32,South,5,4,0
+Saturday,Round of 32,West,14,6,0
+Saturday,Round of 32,West,1,9,0
+Sunday,Round of 32,East,9,1,0
+Sunday,Round of 32,East,7,2,0
+Sunday,Round of 32,Midwest,7,2,0
+Sunday,Round of 32,South,8,1,0
+Sunday,Round of 32,South,11,3,0
+Sunday,Round of 32,South,7,15,0
+Sunday,Round of 32,West,10,2,0
+Sunday,Round of 32,West,12,13,0
+Thursday,Sweet Sixteen,East,2,3,0
+Thursday,Sweet Sixteen,East,1,4,0
+Thursday,Sweet Sixteen,West,6,2,0
+Thursday,Sweet Sixteen,West,13,9,0
+Friday,Sweet Sixteen,Midwest,12,1,0
+Friday,Sweet Sixteen,Midwest,3,2,0
+Friday,Sweet Sixteen,South,15,3,0
+Friday,Sweet Sixteen,South,1,4,0
+Saturday,Elite Eight,East,3,4,0
+Saturday,Elite Eight,West,2,9,0
+Sunday,Elite Eight,Midwest,2,1,0
+Sunday,Elite Eight,South,3,4,0
+Saturday,National Semifinals,NA,9,1,0
+Saturday,National Semifinals,NA,4,4,0
+Monday,National Championship,NA,4,1,0
+Tuesday,Opening Round,Midwest,12,12,0
+Tuesday,Opening Round,South,16,16,0
+Wednesday,Opening Round,Midwest,11,11,0
+Wednesday,Opening Round,Midwest,16,16,0
+Thursday,Round of 64,East,15,2,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,10,7,0
+Thursday,Round of 64,East,5,12,0
+Thursday,Round of 64,Midwest,15,2,0
+Thursday,Round of 64,Midwest,13,4,0
+Thursday,Round of 64,Midwest,12,5,0
+Thursday,Round of 64,Midwest,10,7,0
+Thursday,Round of 64,South,16,1,0
+Thursday,Round of 64,South,14,3,0
+Thursday,Round of 64,South,8,9,0
+Thursday,Round of 64,South,6,11,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,10,7,0
+Thursday,Round of 64,West,5,12,0
+Friday,Round of 64,East,16,1,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,East,9,8,0
+Friday,Round of 64,Midwest,16,1,0
+Friday,Round of 64,Midwest,9,8,0
+Friday,Round of 64,Midwest,6,11,0
+Friday,Round of 64,Midwest,3,14,0
+Friday,Round of 64,South,15,2,0
+Friday,Round of 64,South,13,4,0
+Friday,Round of 64,South,7,10,0
+Friday,Round of 64,South,5,12,0
+Friday,Round of 64,West,16,1,0
+Friday,Round of 64,West,14,3,0
+Friday,Round of 64,West,11,6,0
+Friday,Round of 64,West,9,8,0
+Saturday,Round of 32,East,12,4,0
+Saturday,Round of 32,East,2,7,0
+Saturday,Round of 32,Midwest,7,2,0
+Saturday,Round of 32,Midwest,5,4,0
+Saturday,Round of 32,South,9,1,0
+Saturday,Round of 32,South,3,11,0
+Saturday,Round of 32,West,7,2,0
+Saturday,Round of 32,West,12,4,0
+Sunday,Round of 32,East,8,1,0
+Sunday,Round of 32,East,6,3,0
+Sunday,Round of 32,Midwest,1,8,0
+Sunday,Round of 32,Midwest,14,11,0
+Sunday,Round of 32,South,12,4,0
+Sunday,Round of 32,South,2,10,0
+Sunday,Round of 32,West,8,1,0
+Sunday,Round of 32,West,3,6,0
+Thursday,Sweet Sixteen,South,4,1,0
+Thursday,Sweet Sixteen,South,10,11,0
+Thursday,Sweet Sixteen,West,4,1,0
+Thursday,Sweet Sixteen,West,6,2,0
+Friday,Sweet Sixteen,East,1,4,0
+Friday,Sweet Sixteen,East,3,7,0
+Friday,Sweet Sixteen,Midwest,11,2,0
+Friday,Sweet Sixteen,Midwest,4,8,0
+Saturday,Elite Eight,South,11,1,0
+Saturday,Elite Eight,West,1,2,0
+Sunday,Elite Eight,East,4,7,0
+Sunday,Elite Eight,Midwest,2,8,0
+Saturday,National Semifinals,NA,1,7,0
+Saturday,National Semifinals,NA,2,8,0
+Monday,National Championship,NA,8,7,0
+Tuesday,Opening Round,Midwest,16,16,0
+Tuesday,Opening Round,West,11,11,0
+Wednesday,Opening Round,East,11,11,0
+Wednesday,Opening Round,South,16,16,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,9,8,0
+Thursday,Round of 64,Midwest,16,1,0
+Thursday,Round of 64,Midwest,14,3,0
+Thursday,Round of 64,Midwest,11,6,0
+Thursday,Round of 64,Midwest,9,8,0
+Thursday,Round of 64,South,13,4,0
+Thursday,Round of 64,South,12,5,0
+Thursday,Round of 64,South,6,11,0
+Thursday,Round of 64,South,3,14,0
+Thursday,Round of 64,West,15,2,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,12,5,0
+Thursday,Round of 64,West,11,6,0
+Thursday,Round of 64,West,7,10,0
+Thursday,Round of 64,West,3,14,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,14,3,0
+Friday,Round of 64,East,13,4,0
+Friday,Round of 64,East,12,5,0
+Friday,Round of 64,East,10,7,0
+Friday,Round of 64,East,6,11,0
+Friday,Round of 64,Midwest,15,2,0
+Friday,Round of 64,Midwest,13,4,0
+Friday,Round of 64,Midwest,12,5,0
+Friday,Round of 64,Midwest,10,7,0
+Friday,Round of 64,South,16,1,0
+Friday,Round of 64,South,15,2,0
+Friday,Round of 64,South,10,7,0
+Friday,Round of 64,South,9,8,0
+Friday,Round of 64,West,16,1,0
+Friday,Round of 64,West,9,8,0
+Saturday,Round of 32,East,1,8,0
+Saturday,Round of 32,Midwest,8,1,0
+Saturday,Round of 32,Midwest,6,3,0
+Saturday,Round of 32,South,4,5,0
+Saturday,Round of 32,South,14,11,0
+Saturday,Round of 32,West,10,2,0
+Saturday,Round of 32,West,5,4,0
+Saturday,Round of 32,West,14,6,0
+Sunday,Round of 32,East,11,3,0
+Sunday,Round of 32,East,5,4,0
+Sunday,Round of 32,East,2,7,0
+Sunday,Round of 32,Midwest,4,5,0
+Sunday,Round of 32,Midwest,2,7,0
+Sunday,Round of 32,South,8,1,0
+Sunday,Round of 32,South,7,2,0
+Sunday,Round of 32,West,8,1,0
+Thursday,Sweet Sixteen,Midwest,5,1,0
+Thursday,Sweet Sixteen,Midwest,7,3,0
+Thursday,Sweet Sixteen,West,4,1,0
+Thursday,Sweet Sixteen,West,6,2,0
+Friday,Sweet Sixteen,East,8,4,0
+Friday,Sweet Sixteen,East,3,7,0
+Friday,Sweet Sixteen,South,5,1,0
+Friday,Sweet Sixteen,South,11,2,0
+Saturday,Elite Eight,Midwest,3,1,0
+Saturday,Elite Eight,West,2,1,0
+Sunday,Elite Eight,East,4,7,0
+Sunday,Elite Eight,South,2,1,0
+Saturday,National Semifinals,NA,7,1,0
+Saturday,National Semifinals,NA,1,1,0
+Monday,National Championship,NA,1,1,0
+Tuesday,Opening Round,East,16,16,0
+Tuesday,Opening Round,South,11,11,0
+Wednesday,Opening Round,East,11,11,0
+Wednesday,Opening Round,West,16,16,0
+Thursday,Round of 64,East,16,1,0
+Thursday,Round of 64,East,13,4,0
+Thursday,Round of 64,East,12,5,0
+Thursday,Round of 64,East,8,9,0
+Thursday,Round of 64,Midwest,16,1,0
+Thursday,Round of 64,Midwest,14,3,0
+Thursday,Round of 64,Midwest,13,4,0
+Thursday,Round of 64,Midwest,8,9,0
+Thursday,Round of 64,Midwest,6,11,0
+Thursday,Round of 64,Midwest,5,12,0
+Thursday,Round of 64,South,16,1,0
+Thursday,Round of 64,South,14,3,0
+Thursday,Round of 64,South,8,9,0
+Thursday,Round of 64,South,6,11,0
+Thursday,Round of 64,West,13,4,0
+Thursday,Round of 64,West,5,12,0
+Friday,Round of 64,East,15,2,0
+Friday,Round of 64,East,11,6,0
+Friday,Round of 64,East,10,7,0
+Friday,Round of 64,East,3,14,0
+Friday,Round of 64,Midwest,7,10,0
+Friday,Round of 64,Midwest,2,15,0
+Friday,Round of 64,South,15,2,0
+Friday,Round of 64,South,12,5,0
+Friday,Round of 64,South,10,7,0
+Friday,Round of 64,South,4,13,0
+Friday,Round of 64,West,16,1,0
+Friday,Round of 64,West,15,2,0
+Friday,Round of 64,West,14,3,0
+Friday,Round of 64,West,9,8,0
+Friday,Round of 64,West,7,10,0
+Friday,Round of 64,West,6,11,0
+Saturday,Round of 32,East,9,1,0
+Saturday,Round of 32,East,4,5,0
+Saturday,Round of 32,Midwest,9,1,0
+Saturday,Round of 32,Midwest,12,4,0
+Saturday,Round of 32,Midwest,3,11,0
+Saturday,Round of 32,South,9,1,0
+Saturday,Round of 32,South,11,3,0
+Saturday,Round of 32,West,12,4,0
+Sunday,Round of 32,East,14,6,0
+Sunday,Round of 32,East,2,7,0
+Sunday,Round of 32,Midwest,15,10,0
+Sunday,Round of 32,South,7,2,0
+Sunday,Round of 32,South,13,5,0
+Sunday,Round of 32,West,8,1,0
+Sunday,Round of 32,West,10,2,0
+Sunday,Round of 32,West,11,3,0
+Thursday,Sweet Sixteen,South,5,1,0
+Thursday,Sweet Sixteen,South,3,2,0
+Thursday,Sweet Sixteen,West,4,1,0
+Thursday,Sweet Sixteen,West,3,2,0
+Friday,Sweet Sixteen,East,5,1,0
+Friday,Sweet Sixteen,East,7,6,0
+Friday,Sweet Sixteen,Midwest,4,1,0
+Friday,Sweet Sixteen,Midwest,11,10,0
+Saturday,Elite Eight,South,1,2,0
+Saturday,Elite Eight,West,1,2,0
+Sunday,Elite Eight,East,6,1,0
+Sunday,Elite Eight,Midwest,1,10,0
+Saturday,National Semifinals,NA,10,1,0
+Saturday,National Semifinals,NA,2,2,0
+Monday,National Championship,NA,1,2,0

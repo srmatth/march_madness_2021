@@ -1,0 +1,21 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# march_madness_2021
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of march_madness_2021 is to create a simple model that I can use to predict the 2021 tournament game winners with
+
+It is for personal use only and will not be very useful to others, I don't think.  But maybe it will do great things.
